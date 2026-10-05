@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: Since F1 is low probability from any pathway, the odds are that the backup is what Lukas ends up using, but that backup only has to be a cheap, partial hedge, and the single degree's one to two years of savings and 8 flexible slots buy it at far lower cost than a locked-in 5-year double.
+DECIDING FACT: With switching ruled out and finance stated as only a backup, the record says finance is "fixable later via master's or CFA after 2-3 years of work" and most of the signal comes from "3-4 well-chosen units", while the double costs 5 years against 4 and 40 units against 32.
+WOULD FLIP IF: Verified evidence showed that finance roles Lukas would actually want are closed to engineering graduates who add finance later (for example, the "fixable later" claim failing in practice), or that the single degree's first-year maths load would likely push his WAM below the 2:1 threshold.

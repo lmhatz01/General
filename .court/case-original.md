@@ -21,8 +21,3 @@ Facts from a research review (prepared 5 Oct 2026, based on Monash 2027 course m
 - The review recommends starting in the single degree and keeping the double only if those checks come back in its favour.
 
 The question for the court: is the single Mechanical Engineering degree (with a self-built finance signal) the right choice for me, as opposed to the double, given F1/motorsport and FSAE are my main goal?
-
-RETRIAL — ADDITIONAL FACTS (given by Lukas):
-- Assume it is confirmed that moving from the single Mechanical degree (E3001) into the Engineering + Commerce double (E3005) after Year 1 is NOT possible. The choice is therefore locked in at enrolment: single or double, no switching.
-- Finance is only a backup career for Lukas. Engineering and motorsport engineering is the career he finds most suitable and most likes. Finance presents only as a later option (for example via a master's, CFA or finance units/experience after starting work), not a co-career he would chase in parallel.
-- Question for the retrial: given this, is the single Mechanical Engineering degree (E3001) still the right choice over the double (E3005)?

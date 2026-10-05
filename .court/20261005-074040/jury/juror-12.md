@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: The legal and regulatory unknowns in the record (CSP status at a 3-unit load, time limits, UK visa sponsorship, maps "subject to change") hit the longer double harder than the four-year single, so I see no liability trap that makes the single degree the wrong choice.
+DECIDING FACT: The record says the double needs 40 units, which is 7 years at 3 units a semester, and the effect of that load on CSP status and time limits is unconfirmed, so the double carries extra unresolved enrolment and funding risk that the single largely avoids.
+WOULD FLIP IF: Monash confirmed in writing that a 4-year single, or the course rules for the commencement year, cannot give Lukas the elective or minor slots he needs, or that FSAE/Monash Motorsport requires something only the double provides.

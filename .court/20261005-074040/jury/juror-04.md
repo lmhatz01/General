@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: The prosecution's best points attack the unverified finance fallback and the A+ add-ons, but the facts that favour the single degree (4 years against 5, 32 units against 40, Design 1 a year earlier, finance stated by Lukas to be only a backup) are in the record, while the double's claimed benefit rests on a hedge Lukas says he does not intend to use.
+DECIDING FACT: The record states the double takes 5 years against 4 and 40 units against 32, with the engineering core delayed (Design 1 in Year 3 rather than Year 2), and that Lukas treats finance only as a backup that the review says is fixable later via a master's or CFA.
+WOULD FLIP IF: The record showed, from a verified source, that the single degree leaves a backup finance path closed (for example that banking and finance employers will not consider engineering graduates even after a master's or CFA), or that Monash Motorsport requires a unit only the double provides.

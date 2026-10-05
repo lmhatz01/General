@@ -1,0 +1,92 @@
+{
+  "verdict": "NOT GUILTY",
+  "guilty": 0,
+  "not_guilty": 12,
+  "no_vote": 0,
+  "jurors": [
+    {
+      "juror": "The Accountant",
+      "vote": "NOT GUILTY",
+      "reason": "The double costs at least one more year of delayed graduate salary plus Band 4 Commerce debt per unit to insure a backup career Lukas says he doesn't plan to claim, and the prosecution never priced the downside of the single, only said it was unverified.",
+      "fact": "The double is 5 years against 4 (40 units against 32), and the record puts the delayed salary at \"well over $150k gross\" (a rough, unsourced figure, but the direction is clear), while the finance signal from the single costs only 3-4 units of existing free slots.",
+      "flip": "A sourced figure showed that missing the Commerce credential costs more over a career than the extra years of lost salary and debt, for example verified evidence that engineering-to-finance routes after a master's or CFA are closed or far more expensive than the record's unverified judgement suggests."
+    },
+    {
+      "juror": "The First-Time Customer",
+      "vote": "NOT GUILTY",
+      "reason": "If I were Lukas and finance was only my backup, I would take the single degree this week, because I would not pay an extra year or more and a heavier load for insurance I don't plan to use.",
+      "fact": "Lukas says finance is only a backup, not a co-career, and the record says the double takes 5 years against 4 and has no engineering minors or technical electives, while McLaren and Mercedes ask for engineering grades and Formula Student and neither mentions commerce.",
+      "flip": "It were verified that employers or master's programs Lukas would realistically target need a commerce degree, so the later fix for finance (master's, CFA, a few units) is shown not to work."
+    },
+    {
+      "juror": "The Competitor",
+      "vote": "NOT GUILTY",
+      "reason": "As the rival offering the double, I would ignore this: it sells a finance hedge Lukas says he will not use, at the cost of a fifth year, and a firm hiring for motorsport would not value it.",
+      "fact": "Finance is now only a backup, and the record says it is \"fixable later via master's or CFA after 2-3 years of work\", while the double is 5 years against 4 with its core design and thermo units pushed back a year.",
+      "flip": "It were confirmed that the single degree's free slots could not hold a credible finance signal and that a motorsport employer or Monash Motorsport actually favoured commerce-credentialled applicants."
+    },
+    {
+      "juror": "The Retired Judge",
+      "vote": "NOT GUILTY",
+      "reason": "The prosecution's best points attack the unverified finance fallback and the A+ add-ons, but the facts that favour the single degree (4 years against 5, 32 units against 40, Design 1 a year earlier, finance stated by Lukas to be only a backup) are in the record, while the double's claimed benefit rests on a hedge Lukas says he does not intend to use.",
+      "fact": "The record states the double takes 5 years against 4 and 40 units against 32, with the engineering core delayed (Design 1 in Year 3 rather than Year 2), and that Lukas treats finance only as a backup that the review says is fixable later via a master's or CFA.",
+      "flip": "The record showed, from a verified source, that the single degree leaves a backup finance path closed (for example that banking and finance employers will not consider engineering graduates even after a master's or CFA), or that Monash Motorsport requires a unit only the double provides."
+    },
+    {
+      "juror": "The Teenager",
+      "vote": "NOT GUILTY",
+      "reason": "Nobody wants to spend five boring years of marketing and commercial law units for a backup plan he says he doesn't even want, so the single degree is the obvious pick and the prosecution is mostly nitpicking.",
+      "fact": "Lukas says finance is only a backup, and the record says it is \"fixable later via master's or CFA after 2-3 years of work\", while the double adds a year and drops engineering minors and technical electives.",
+      "flip": "The record showed that finance careers were really closed off later without the Commerce degree, and that the extra year of the double cost him nothing in F1 or FSAE chances."
+    },
+    {
+      "juror": "The Engineer",
+      "vote": "NOT GUILTY",
+      "reason": "As an engineer I see the single degree as the build that actually works: it gets the design, thermo and final-year project units done a year earlier and leaves free slots, whereas the double adds a year of delay and no electives to hedge a career Lukas says is only a backup.",
+      "fact": "Finance is now only a backup career and the double is 5 years with no minors or technical electives (40 units against 32), with Design 1 and the final-year project each pushed back a year.",
+      "flip": "Lukas said finance was a genuine co-career, or the record showed that finance cannot be added after starting work (master's or CFA) for the roles he would want."
+    },
+    {
+      "juror": "The Small-Business Owner",
+      "vote": "NOT GUILTY",
+      "reason": "As someone who has carried a business through slow months, I would not pay for an extra year or more of delayed pay and the heaviest workload just to insure a backup he says he does not plan to use, when the record says finance can be added later through work, a master's or CFA.",
+      "fact": "Lukas states finance is only a backup career, and the double costs 5 years instead of 4 (40 units vs 32) with no electives, while the unverified finance claims only affect the backup path.",
+      "flip": "It were confirmed that the single degree leaves him unable to enter investment banking or similar finance roles at all, and Lukas stated he wants that option kept open, so that the backup would be closed off permanently rather than just harder."
+    },
+    {
+      "juror": "The Statistician",
+      "vote": "NOT GUILTY",
+      "reason": "Since F1 is low probability from any pathway, the odds are that the backup is what Lukas ends up using, but that backup only has to be a cheap, partial hedge, and the single degree's one to two years of savings and 8 flexible slots buy it at far lower cost than a locked-in 5-year double.",
+      "fact": "With switching ruled out and finance stated as only a backup, the record says finance is \"fixable later via master's or CFA after 2-3 years of work\" and most of the signal comes from \"3-4 well-chosen units\", while the double costs 5 years against 4 and 40 units against 32.",
+      "flip": "Verified evidence showed that finance roles Lukas would actually want are closed to engineering graduates who add finance later (for example, the \"fixable later\" claim failing in practice), or that the single degree's first-year maths load would likely push his WAM below the 2:1 threshold."
+    },
+    {
+      "juror": "The Parent",
+      "vote": "NOT GUILTY",
+      "reason": "As a parent I would not ask my kid to spend a fifth year and a lot of extra debt on a backup career he says he only wants as a backup, when the record says that backup can be rebuilt after a few years of work.",
+      "fact": "Lukas has said finance is only a backup, and the record says finance is \"Fixable later via master's or CFA after 2-3 years of work\" while the double costs 5 years against 4 with a Year 1 maths risk to his WAM.",
+      "flip": "It were verified that finance cannot realistically be added after starting work in engineering, or that the double's Mechanical core is no longer delayed and Lukas's WAM is not at risk."
+    },
+    {
+      "juror": "The Investor",
+      "vote": "NOT GUILTY",
+      "reason": "As an investor I would not pay for 1+ extra years, roughly 8 more units and a delayed graduate salary to insure a backup the owner says he doesn't plan to use, when the single degree leaves cheap, later ways to add finance.",
+      "fact": "The record says finance is only a backup for Lukas and is \"fixable later via master's or CFA after 2-3 years of work\", while the double costs 5 years against 4 and 40 units against 32, with a delayed salary the review puts at \"well over $150k gross\" (rough, unsourced).",
+      "flip": "Evidence showed the finance backup could not realistically be rebuilt after starting work (for example, a verified finding that engineering graduates are routinely shut out of finance even with a master's or CFA), or that the single degree's early years could not carry the finance units without hurting WAM."
+    },
+    {
+      "juror": "The Designer",
+      "vote": "NOT GUILTY",
+      "reason": "A stranger can see the point in five seconds: Lukas's main goal is motorsport engineering, finance is only a backup, and the single degree is the shorter and simpler route to the goal, so the case holds up as stated.",
+      "fact": "Lukas confirmed that finance is only a backup career and not a co-career, while the review itself said to take the double only \"if finance a genuine co-career\".",
+      "flip": "The finance fallback were shown to be unreachable without Commerce (for example, a verified source saying engineering graduates are shut out of finance roles even after a master's or CFA), or Lukas said finance was a real co-career."
+    },
+    {
+      "juror": "The Lawyer",
+      "vote": "NOT GUILTY",
+      "reason": "The legal and regulatory unknowns in the record (CSP status at a 3-unit load, time limits, UK visa sponsorship, maps \"subject to change\") hit the longer double harder than the four-year single, so I see no liability trap that makes the single degree the wrong choice.",
+      "fact": "The record says the double needs 40 units, which is 7 years at 3 units a semester, and the effect of that load on CSP status and time limits is unconfirmed, so the double carries extra unresolved enrolment and funding risk that the single largely avoids.",
+      "flip": "Monash confirmed in writing that a 4-year single, or the course rules for the commencement year, cannot give Lukas the elective or minor slots he needs, or that FSAE/Monash Motorsport requires something only the double provides."
+    }
+  ]
+}

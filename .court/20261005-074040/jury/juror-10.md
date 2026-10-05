@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: As an investor I would not pay for 1+ extra years, roughly 8 more units and a delayed graduate salary to insure a backup the owner says he doesn't plan to use, when the single degree leaves cheap, later ways to add finance.
+DECIDING FACT: The record says finance is only a backup for Lukas and is "fixable later via master's or CFA after 2-3 years of work", while the double costs 5 years against 4 and 40 units against 32, with a delayed salary the review puts at "well over $150k gross" (rough, unsourced).
+WOULD FLIP IF: Evidence showed the finance backup could not realistically be rebuilt after starting work (for example, a verified finding that engineering graduates are routinely shut out of finance even with a master's or CFA), or that the single degree's early years could not carry the finance units without hurting WAM.

@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: The double costs at least one more year of delayed graduate salary plus Band 4 Commerce debt per unit to insure a backup career Lukas says he doesn't plan to claim, and the prosecution never priced the downside of the single, only said it was unverified.
+DECIDING FACT: The double is 5 years against 4 (40 units against 32), and the record puts the delayed salary at "well over $150k gross" (a rough, unsourced figure, but the direction is clear), while the finance signal from the single costs only 3-4 units of existing free slots.
+WOULD FLIP IF: A sourced figure showed that missing the Commerce credential costs more over a career than the extra years of lost salary and debt, for example verified evidence that engineering-to-finance routes after a master's or CFA are closed or far more expensive than the record's unverified judgement suggests.
