@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: The prosecution proved gaps in the record, but gaps in information call for questions back to the student, not for finding that a sound start (engineering first, finance optional) should not go ahead, and the prosecution's claims about employer screening and relocation are as much hope as the defense's.
+DECIDING FACT: Every route in the file starts with the same Monash Mechanical Engineering degree, so the missing salary, location and relocation figures make the answer conditional rather than impossible.
+WOULD FLIP IF: The record showed that the double degree or stretched load measurably cost the WAM or Formula SAE time needed for the motorsport path he calls primary, or that relocation unwillingness rules out motorsport roles, so that keeping both options open actually closes the main one.

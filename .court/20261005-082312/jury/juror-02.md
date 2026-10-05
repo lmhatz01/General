@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: As someone who just wants usable advice this week, I'd happily act on "start Mechanical Engineering at Monash and keep Commerce as an option", because that plan works whichever career he picks and the missing salary and relocation details only make the answer conditional, not impossible.
+DECIDING FACT: Every route in the file starts with the same Monash Mechanical Engineering degree ("either alone or as a double degree with Commerce (Finance)... Also considering engineering with finance electives/minor"), so he can go ahead now without settling the career question.
+WOULD FLIP IF: The record showed that the double degree or stretched load would measurably cost the WAM and Formula SAE time his primary motorsport goal depends on, or that relocation overseas is something he will not do, which would make the "keep both open" plan a poor fit.
