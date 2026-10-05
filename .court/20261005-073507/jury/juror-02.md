@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: As someone hearing this for the first time, I would take it this week because starting in the single degree costs me almost nothing and leaves the double open, while the double's extra years and delayed core units are a real price for a goal the employers' postings never tie to commerce.
+DECIDING FACT: The review recommends starting in the single degree and keeping the double only if the open checks favour it, and at equal load the double takes about 25% more calendar time while the McLaren and Mercedes postings ask for engineering and Formula Student experience and neither mentions commerce.
+WOULD FLIP IF: The record showed that a transfer from E3001 to E3005 after Year 1 is blocked or very costly, or that finance is a genuine co-career for Lukas rather than a hedge, so that starting in the single would shut the door on the double.

@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: As an engineer I see the single degree as the simpler build that gets the core design, thermofluids and final-year project done a year earlier and leaves flexible slots, while the double adds interleaved Commerce units, no minors or technical electives, and about 25% more calendar time at any given load.
+DECIDING FACT: At equal load the double takes about 25% more calendar time, and it delays Design 1, Thermofluids, FEA and the final-year project by a year, with no engineering minors or technical elective slots.
+WOULD FLIP IF: Monash confirmed that the single degree cannot be changed into the double after Year 1, and that the Year 1-2 slots cannot hold the 3-4 Commerce units, so the finance hedge would be impossible to build and the recommendation would rest on a closed door.

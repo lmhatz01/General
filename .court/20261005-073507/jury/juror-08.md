@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: The single degree is the plan that needs the fewest unverified bets, since the only way it fails is if finance proves to be a real co-career, and the record has no base-rate evidence for that, while the double's extra calendar time at equal load is arithmetic from the file.
+DECIDING FACT: At any given weekly load the double costs about 25% more calendar time (40 units versus 32 at 3 a semester, 7 years versus about 5.5), while the F1 postings quoted (McLaren, Mercedes) ask for engineering and hands-on Formula Student experience and do not mention commerce.
+WOULD FLIP IF: Confirmed evidence that transfer from E3001 to E3005 after Year 1 is not allowed or is costly, together with Lukas deciding finance is a genuine co-career, so that starting in the single closes a door that cannot be reopened.

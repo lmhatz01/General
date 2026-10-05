@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: The prosecution proved that several supports for the single degree are unverified (the finance hedge, transfer rules, CSP effect), but it offered no evidence that the double does better on the stated goal, and the recommended step of starting in the single and revisiting is the one the record can bear.
+DECIDING FACT: The course maps in the record put Design 1, Thermofluids, FEA and the final-year project a year later in the double (5 years versus 4, about 25% more calendar time at equal load), while no employer posting in the record mentions commerce.
+WOULD FLIP IF: Verified evidence showed that the finance hedge matters to Lukas as a real co-career and that the single degree cannot be moved into the double after Year 1, or that the Monash Motorsport and F1 pipelines favour the double.

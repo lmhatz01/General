@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: As a parent I'd back the option that costs the family fewer years, less debt and less strain on a teenager who is already weak in maths, and starting in the single degree with a free finance top-up does that while the unconfirmed checks only decide whether to add the double later.
+DECIDING FACT: At equal weekly load the double takes about 25% more calendar time (5 years full-time vs 4), which delays graduate salary by an estimated well over $150k (rough, unsourced) and adds Band 4 debt, while neither McLaren nor Mercedes mentions commerce.
+WOULD FLIP IF: Monash confirmed that a transfer from E3001 to E3005 after Year 1 is not allowed or is costly, and that commerce units cannot be taken in the single's free slots, so that starting in the single would close off the finance path for good.

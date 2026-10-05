@@ -1,0 +1,92 @@
+{
+  "verdict": "NOT GUILTY",
+  "guilty": 0,
+  "not_guilty": 12,
+  "no_vote": 0,
+  "jurors": [
+    {
+      "juror": "The Accountant",
+      "vote": "NOT GUILTY",
+      "reason": "Even with the $150k figure unsourced, the single degree is 32 units against 40, one year shorter at standard pace, carries no Band 4 Commerce charge per unit, and gets a graduate salary a year sooner, so the money points to the single.",
+      "fact": "The double is 40 units against the single's 32, which is about 25% more calendar time at any given load, and the record gives Commerce a higher HECS band than engineering, so the double adds both debt per unit and delayed earnings.",
+      "flip": "A sourced figure showed the double lifted graduate pay or access enough to cover the extra year or more of lost salary and the Band 4 debt, or the transfer and flexible-slot checks showed the single could not be undone or could not hold the finance units."
+    },
+    {
+      "juror": "The First-Time Customer",
+      "vote": "NOT GUILTY",
+      "reason": "As someone hearing this for the first time, I would take it this week because starting in the single degree costs me almost nothing and leaves the double open, while the double's extra years and delayed core units are a real price for a goal the employers' postings never tie to commerce.",
+      "fact": "The review recommends starting in the single degree and keeping the double only if the open checks favour it, and at equal load the double takes about 25% more calendar time while the McLaren and Mercedes postings ask for engineering and Formula Student experience and neither mentions commerce.",
+      "flip": "The record showed that a transfer from E3001 to E3005 after Year 1 is blocked or very costly, or that finance is a genuine co-career for Lukas rather than a hedge, so that starting in the single would shut the door on the double."
+    },
+    {
+      "juror": "The Competitor",
+      "vote": "NOT GUILTY",
+      "reason": "As the rival who would have to beat this plan, I would copy it, because a pure engineering degree with FSAE ownership and a few finance units is exactly what the hiring evidence rewards and the double gives me nothing extra to attack it with.",
+      "fact": "McLaren asks for an engineering, maths or science degree with a minimum 2:1 and Mercedes lists Formula Student experience, and neither mentions commerce, while the double delays Design 1, thermofluids and the final-year project by a year.",
+      "flip": "The record showed that the single degree could not be undone (no transfer to E3005 after Year 1 and no room for the commerce units), and that finance was a genuine co-career rather than a hedge."
+    },
+    {
+      "juror": "The Retired Judge",
+      "vote": "NOT GUILTY",
+      "reason": "The prosecution proved that several supports for the single degree are unverified (the finance hedge, transfer rules, CSP effect), but it offered no evidence that the double does better on the stated goal, and the recommended step of starting in the single and revisiting is the one the record can bear.",
+      "fact": "The course maps in the record put Design 1, Thermofluids, FEA and the final-year project a year later in the double (5 years versus 4, about 25% more calendar time at equal load), while no employer posting in the record mentions commerce.",
+      "flip": "Verified evidence showed that the finance hedge matters to Lukas as a real co-career and that the single degree cannot be moved into the double after Year 1, or that the Monash Motorsport and F1 pipelines favour the double."
+    },
+    {
+      "juror": "The Teenager",
+      "vote": "NOT GUILTY",
+      "reason": "He wants to build race cars, not sit through marketing and commercial law for an extra year or two, so starting on the single degree is the obvious pick and the missing checks don't change that.",
+      "fact": "The double is 5 years with engineering minors and technical electives unavailable and Commerce core units \"contributing little to F1 or serious finance\", while neither McLaren nor Mercedes mentions commerce.",
+      "flip": "The record showed that transfer from E3001 to E3005 after Year 1 is impossible or costly AND that Lukas treats finance as a genuine co-career, so the single would shut a door he actually wants."
+    },
+    {
+      "juror": "The Engineer",
+      "vote": "NOT GUILTY",
+      "reason": "As an engineer I see the single degree as the simpler build that gets the core design, thermofluids and final-year project done a year earlier and leaves flexible slots, while the double adds interleaved Commerce units, no minors or technical electives, and about 25% more calendar time at any given load.",
+      "fact": "At equal load the double takes about 25% more calendar time, and it delays Design 1, Thermofluids, FEA and the final-year project by a year, with no engineering minors or technical elective slots.",
+      "flip": "Monash confirmed that the single degree cannot be changed into the double after Year 1, and that the Year 1-2 slots cannot hold the 3-4 Commerce units, so the finance hedge would be impossible to build and the recommendation would rest on a closed door."
+    },
+    {
+      "juror": "The Small-Business Owner",
+      "vote": "NOT GUILTY",
+      "reason": "Starting in the single degree means a year less of fees and a year earlier on a graduate wage, and if a slow month hits (grades slip, the finance plan stalls) it is the cheaper path to back out of.",
+      "fact": "The double is 5 years full-time against 4 for the single, about 25% more calendar time at any given load, with the double's core units pushed back a year and no technical elective slots.",
+      "flip": "Monash confirmed that transfer from E3001 to E3005 after Year 1 is not allowed, or that a 3-unit load puts Lukas's CSP status at risk, and finance was a genuine co-career for him rather than a hedge."
+    },
+    {
+      "juror": "The Statistician",
+      "vote": "NOT GUILTY",
+      "reason": "The single degree is the plan that needs the fewest unverified bets, since the only way it fails is if finance proves to be a real co-career, and the record has no base-rate evidence for that, while the double's extra calendar time at equal load is arithmetic from the file.",
+      "fact": "At any given weekly load the double costs about 25% more calendar time (40 units versus 32 at 3 a semester, 7 years versus about 5.5), while the F1 postings quoted (McLaren, Mercedes) ask for engineering and hands-on Formula Student experience and do not mention commerce.",
+      "flip": "Confirmed evidence that transfer from E3001 to E3005 after Year 1 is not allowed or is costly, together with Lukas deciding finance is a genuine co-career, so that starting in the single closes a door that cannot be reopened."
+    },
+    {
+      "juror": "The Parent",
+      "vote": "NOT GUILTY",
+      "reason": "As a parent I'd back the option that costs the family fewer years, less debt and less strain on a teenager who is already weak in maths, and starting in the single degree with a free finance top-up does that while the unconfirmed checks only decide whether to add the double later.",
+      "fact": "At equal weekly load the double takes about 25% more calendar time (5 years full-time vs 4), which delays graduate salary by an estimated well over $150k (rough, unsourced) and adds Band 4 debt, while neither McLaren nor Mercedes mentions commerce.",
+      "flip": "Monash confirmed that a transfer from E3001 to E3005 after Year 1 is not allowed or is costly, and that commerce units cannot be taken in the single's free slots, so that starting in the single would close off the finance path for good."
+    },
+    {
+      "juror": "The Investor",
+      "vote": "NOT GUILTY",
+      "reason": "As an investor I would put my money in the single degree, because it costs 2-3 fewer years of delayed salary and less Band 4 debt, it matches what the F1 employers actually screen for, and its downside is small and fixable later.",
+      "fact": "At equal weekly load the double takes about 25% more calendar time, and the file puts the delayed graduate salary at \"well over $150k gross\" (rough, unsourced), while McLaren and Mercedes do not mention commerce.",
+      "flip": "The record showed that the single degree cannot be changed to the double after Year 1, and that the finance hedge cannot be built outside Commerce (or that the 3-4 unit finance signal fails in practice), so that finance had to be a genuine co-career."
+    },
+    {
+      "juror": "The Designer",
+      "vote": "NOT GUILTY",
+      "reason": "The case is easy to state in five seconds (a four-year engineering degree aimed at motorsport, with a few finance units added on the side), and the double's extra length and delayed core units are a clear cost that the unverified finance hedge does not outweigh.",
+      "fact": "At equal weekly load the double takes about 25% more calendar time (40 units against 32), and McLaren and Mercedes list engineering degrees and Formula Student experience without mentioning commerce.",
+      "flip": "The record showed that transfer between E3001 and E3005 is not possible after Year 1 and that Lukas wants finance (such as investment banking) as a real co-career, since the single would then close a door that cannot be reopened."
+    },
+    {
+      "juror": "The Lawyer",
+      "vote": "NOT GUILTY",
+      "reason": "The legal and regulatory unknowns (CSP status at a 36-credit-point load, time limits, transfer rules, pending course maps) mostly bite the stretched double, while the single at standard load carries no stated liability and the review already makes the choice conditional on those checks.",
+      "fact": "The record says three units a semester is exactly 36 credit points, so \"not classed part-time; effect on CSP status unconfirmed\", and the recommendation is to start in the single and keep the double only if the checks come back in its favour.",
+      "flip": "Monash confirmed that moving from E3001 to E3005 after Year 1 is barred or costs credit, and that the single's Year 1-2 slots cannot take Commerce units, so the plan could not be undone and the hedge would be a legal dead end."
+    }
+  ]
+}

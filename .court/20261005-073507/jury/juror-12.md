@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: The legal and regulatory unknowns (CSP status at a 36-credit-point load, time limits, transfer rules, pending course maps) mostly bite the stretched double, while the single at standard load carries no stated liability and the review already makes the choice conditional on those checks.
+DECIDING FACT: The record says three units a semester is exactly 36 credit points, so "not classed part-time; effect on CSP status unconfirmed", and the recommendation is to start in the single and keep the double only if the checks come back in its favour.
+WOULD FLIP IF: Monash confirmed that moving from E3001 to E3005 after Year 1 is barred or costs credit, and that the single's Year 1-2 slots cannot take Commerce units, so the plan could not be undone and the hedge would be a legal dead end.
