@@ -1,0 +1,92 @@
+{
+  "verdict": "GUILTY",
+  "guilty": 10,
+  "not_guilty": 2,
+  "no_vote": 0,
+  "jurors": [
+    {
+      "juror": "The Accountant",
+      "vote": "GUILTY",
+      "reason": "As an accountant I see a decision that costs years of tuition and time (single versus double degree) being supported by a claim with no graduate-outcome, salary or hiring figure behind it, so it cannot be relied on as stated.",
+      "fact": "The defense itself concedes the file has no data on graduate outcomes, such as how many Monash engineers enter finance or consulting, or how recruiters treat engineering-only applicants.",
+      "flip": "The case supplied sourced graduate-outcome data showing Monash engineering-only graduates entering finance and consulting, and the cost in extra years and fees of adding Commerce."
+    },
+    {
+      "juror": "The First-Time Customer",
+      "vote": "GUILTY",
+      "reason": "As someone hearing this for the first time, I would not act on a reassurance that gives me no evidence for finance or consulting and doesn't help me choose between the three degree options I'm actually weighing.",
+      "fact": "The record has no graduate outcomes, recruiter data or pathway evidence for finance or consulting, and the defense itself conceded it cannot defend that gap, so \"even finance\" is asserted rather than shown.",
+      "flip": "The claim came with evidence that engineering-only graduates from Monash actually enter finance and consulting (for example, graduate-program or alumni outcomes), and said whether electives are enough or a Commerce component is needed."
+    },
+    {
+      "juror": "The Competitor",
+      "vote": "GUILTY",
+      "reason": "As a rival who would have to beat this offer, I see a prestige slogan with no outcomes data behind \"even finance and consulting\", and I would happily compete against a Commerce double degree or a hands-on Formula SAE record while this claim sits unproven.",
+      "fact": "The defense conceded that the file has no data on graduate outcomes or on how recruiters treat engineering-only applicants, and that it cannot show \"top school\" matters more than the course or experience.",
+      "flip": "The record included graduate-outcome or recruiter evidence that Monash engineering-only graduates actually enter finance and consulting, or the claim were reworded to a modest, defined statement about the degree's breadth that no longer relies on the school's name."
+    },
+    {
+      "juror": "The Retired Judge",
+      "vote": "GUILTY",
+      "reason": "The burden sits with the claim, and the record holds no graduate outcomes, recruiter data or pathway evidence for motorsport, finance or consulting, so \"versatile\" is hope stated as fact.",
+      "fact": "The defense itself conceded that the file has no data on graduate outcomes or on how recruiters treat engineering-only applicants, and its only answer was that there is \"no evidence that it can't\".",
+      "flip": "The record held actual evidence, such as Monash graduate-outcome figures or employer examples, showing engineering-only graduates entering finance and consulting as well as motorsport."
+    },
+    {
+      "juror": "The Teenager",
+      "vote": "GUILTY",
+      "reason": "It's a generic \"degrees are versatile\" line that anyone could say about any uni, so it tells Lukas nothing he'd actually use or bring up again next week.",
+      "fact": "The claim never ranks or answers his real choice (Mechanical alone vs double degree vs electives), and even the defense concedes there is no data on finance or consulting outcomes.",
+      "flip": "The claim came with concrete Monash examples, such as named Formula SAE alumni landing F1 roles and engineering-only grads getting finance jobs, and said which of the three options to pick."
+    },
+    {
+      "juror": "The Engineer",
+      "vote": "NOT GUILTY",
+      "reason": "As a builder I see a workable plan underneath it, Mechanical at Monash with Formula SAE and finance electives as a cheap hedge, and the claim is a loose but fair premise whose gaps (no outcomes data, no pathway detail) make it unproven rather than broken.",
+      "fact": "The claim only says the degree is versatile and does not tell Lukas to take the double degree, and the defense showed he can pick Mechanical alone, protect his WAM and Formula SAE time, and still keep finance open through electives.",
+      "flip": "The record showed that finance and consulting employers screen out engineering-only graduates, so that the finance path really needs the Commerce double degree he fears will cost him WAM and Formula SAE time."
+    },
+    {
+      "juror": "The Small-Business Owner",
+      "vote": "NOT GUILTY",
+      "reason": "Unproven is not the same as broken, and the plan that goes with it (Mechanical alone, finance electives as a cheap hedge) costs little if the claim turns out looser than advertised, so I'd let him proceed while he checks it.",
+      "fact": "The file shows Lukas is also weighing \"engineering with finance electives,\" a low-cost hedge, and the defense's point that the claim never requires the double degree went unanswered on the cost side.",
+      "flip": "The record showed that finance and consulting employers screen out engineering-only graduates without a Commerce credential, so that the hedge is worthless and the claim hides a real cost."
+    },
+    {
+      "juror": "The Statistician",
+      "vote": "GUILTY",
+      "reason": "The claim covers three hiring markets with very different odds, motorsport being a tiny and fiercely competitive one, and the record gives no base rate, graduate outcome or sample for any of them, so \"versatile\" rests on the few visible success stories rather than on how often graduates actually land in those roles.",
+      "fact": "The defense itself conceded that the file has no data on how many Monash engineers enter finance or consulting, or how recruiters treat engineering-only applicants, and that motorsport roles are far more competitive than the claim suggests.",
+      "flip": "The record included graduate-outcome figures showing a meaningful share of Monash mechanical engineers (without a Commerce degree) entering finance, consulting and motorsport roles."
+    },
+    {
+      "juror": "The Parent",
+      "vote": "GUILTY",
+      "reason": "As a parent I would not let a teenager commit years and fees to a degree on a reassurance that nobody has backed with a single graduate outcome, especially when the real choice (single, double or electives) is left unanswered.",
+      "fact": "The defense itself conceded that the file has no data on graduate outcomes, such as how many Monash engineers enter finance or consulting, or how recruiters treat engineering-only applicants.",
+      "flip": "The case showed real graduate outcomes (for example Monash mechanical engineers entering motorsport and finance or consulting roles with engineering alone or with electives) and was reframed as a premise to test rather than a basis for the decision."
+    },
+    {
+      "juror": "The Investor",
+      "vote": "GUILTY",
+      "reason": "I would not put my own money behind a claim that covers three hiring markets with no graduate outcomes, recruiter or alumni data for any of them, and that leaves Lukas's real choice between Mechanical alone, the double degree and electives undecided.",
+      "fact": "The defense concedes the record has no data on graduate outcomes, such as how many Monash engineers enter finance or consulting, or on how recruiters treat engineering-only applicants.",
+      "flip": "The claim came with graduate outcome or recruiter data showing that Monash engineering-only graduates, with or without finance electives, are hired into finance and consulting, and into motorsport roles, at meaningful rates."
+    },
+    {
+      "juror": "The Designer",
+      "vote": "GUILTY",
+      "reason": "A stranger would grasp the sentence in five seconds, but they would not know what to do with it, because it says nothing about which of Lukas's three options to take or how engineering leads into finance.",
+      "fact": "Lukas's actual choice is between Engineering alone, a double degree with Commerce (Finance), or engineering with finance electives, and the claim ranks none of them. The defense concedes the record has no outcomes data and no pathway evidence for \"even finance.\"",
+      "flip": "The claim were restated to say which option serves his motorsport-first goal and what engineering alone does or does not open in finance, backed by at least some graduate-outcome or recruiter evidence."
+    },
+    {
+      "juror": "The Lawyer",
+      "vote": "GUILTY",
+      "reason": "As a lawyer I would call this puffery, not a warranty, but it is an unsubstantiated reassurance offered to a Year 12 student about a costly, hard-to-reverse enrolment choice, and nothing in the record supports it for finance or consulting, or addresses what each path requires (such as any accreditation or entry conditions the record never mentions).",
+      "fact": "The defense itself concedes the file has no data on graduate outcomes or on how recruiters treat engineering-only applicants, so \"even finance and consulting\" rests on assertion alone.",
+      "flip": "The claim were restated as a modest, qualified statement (engineering keeps finance open, but a Commerce component or high WAM may be needed) and backed by graduate-outcome or recruiter evidence for engineering-only applicants."
+    }
+  ]
+}

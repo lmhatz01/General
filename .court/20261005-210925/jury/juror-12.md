@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: As a lawyer I would call this puffery, not a warranty, but it is an unsubstantiated reassurance offered to a Year 12 student about a costly, hard-to-reverse enrolment choice, and nothing in the record supports it for finance or consulting, or addresses what each path requires (such as any accreditation or entry conditions the record never mentions).
+DECIDING FACT: The defense itself concedes the file has no data on graduate outcomes or on how recruiters treat engineering-only applicants, so "even finance and consulting" rests on assertion alone.
+WOULD FLIP IF: The claim were restated as a modest, qualified statement (engineering keeps finance open, but a Commerce component or high WAM may be needed) and backed by graduate-outcome or recruiter evidence for engineering-only applicants.
