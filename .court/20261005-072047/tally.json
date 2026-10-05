@@ -1,0 +1,92 @@
+{
+  "verdict": "GUILTY",
+  "guilty": 11,
+  "not_guilty": 1,
+  "no_vote": 0,
+  "jurors": [
+    {
+      "juror": "The Accountant",
+      "vote": "GUILTY",
+      "reason": "I follow the money, and the record never says whose $10000 it is, what income covers the registration, insurance and repairs on top, or what the student would give up, so I can't approve spending it as described.",
+      "fact": "The case gives no income, no savings and no source for the $10000 (savings or borrowed), and the defense itself conceded it cannot defend the purchase if the money is borrowed or drains their savings.",
+      "flip": "The case stated that the $10000 is the student's own spare savings, with a further budget already set aside for a year of registration, insurance and servicing."
+    },
+    {
+      "juror": "The First-Time Customer",
+      "vote": "GUILTY",
+      "reason": "As someone who would actually be handing over $10000 this week, I would not do it when nobody can tell me whether it is my own savings or borrowed money, or whether I even need the car.",
+      "fact": "The record gives no income, no savings and no source for the $10000, and the defense itself conceded it cannot defend the purchase if the money is borrowed or drains all the student's savings.",
+      "flip": "The case stated that the $10000 was the student's own spare savings, with running costs (registration, insurance, servicing) separately covered and a real need for the car, such as no other way to get to work or study."
+    },
+    {
+      "juror": "The Competitor",
+      "vote": "GUILTY",
+      "reason": "As a rival selling cheaper alternatives (cheap old cars, family hand-me-downs, public transport passes), I would happily take a buyer who walks in knowing nothing about their own money, need or the car, and that buyer is exactly who should not go ahead as described.",
+      "fact": "The defense itself conceded it cannot defend the purchase if the $10000 is borrowed or drains savings, and the record says nothing about where the money comes from.",
+      "flip": "The case stated that the $10000 is the student's own spare savings, with running costs (registration, insurance, repairs) separately covered and no free car already available."
+    },
+    {
+      "juror": "The Retired Judge",
+      "vote": "GUILTY",
+      "reason": "The proposal to spend $10000 rests entirely on assumptions that are not in the record, and the defense can only win by supposing facts (own savings, a sound car, covered running costs) that nobody has proved.",
+      "fact": "The defense conceded it cannot defend the purchase if the money is borrowed or drains the student's savings, and the record is silent on the source of the money, on any income, and on the running costs.",
+      "flip": "The case stated that the $10000 was the student's own spare savings, with income or funds set aside to cover registration, insurance and repairs, and that they have a licence and a real need for a car."
+    },
+    {
+      "juror": "The Teenager",
+      "vote": "NOT GUILTY",
+      "reason": "A car is the one thing every Year 12 kid actually wants and talks about, and \"we don't know the details\" is just a to-do list, not a reason to say no.",
+      "fact": "The case itself asks to judge the general idea and say what would change the answer, and the defense's conditions (own savings, sound car, running costs covered) are all things the student can simply check before paying.",
+      "flip": "The record said the $10000 was borrowed, or was nearly all the student's savings, with no income to pay it back."
+    },
+    {
+      "juror": "The Engineer",
+      "vote": "GUILTY",
+      "reason": "As an engineer I would not sign off a build with no load figures, and what breaks first here is running costs (registration, young-driver insurance, repairs) landing on a school student with no stated income, which the defense itself concedes could push the true cost well above $10000.",
+      "fact": "The defense conceded that it cannot defend the purchase if the money is borrowed or drains the student's savings, and that registration, insurance and repairs could push the true cost well above $10000, while the record states none of these conditions are met.",
+      "flip": "The case stated that the $10000 is the student's own spare savings, with a further budget already set aside for a year of registration, insurance and repairs."
+    },
+    {
+      "juror": "The Small-Business Owner",
+      "vote": "GUILTY",
+      "reason": "I would not hand over $10000 for anything when nobody can tell me where the cash comes from or how the running costs get paid in a slow month, and a student with no stated income has no slow-month cushion at all.",
+      "fact": "The record gives no income, no savings and no word on whether the $10000 is savings or borrowed, and the defense itself conceded it cannot defend the purchase if the money is borrowed or drains savings.",
+      "flip": "The case stated that the $10000 is the student's own spare savings, with registration, insurance and a year of running costs separately covered by steady income."
+    },
+    {
+      "juror": "The Statistician",
+      "vote": "GUILTY",
+      "reason": "With no income, savings or funding source on the record, I cannot treat this as one of the minority of cases that works, and the defense itself says it would only go ahead if several unmet conditions hold.",
+      "fact": "The defense conceded it cannot defend the purchase if the money is borrowed or drains savings, and the record gives no sign that either is not the case.",
+      "flip": "The case stated that the $10000 is the student's own spare savings, not borrowed, with running costs (registration, insurance, servicing) separately covered."
+    },
+    {
+      "juror": "The Parent",
+      "vote": "GUILTY",
+      "reason": "As a parent I would not let my school-age child put $10000 plus insurance, registration and repairs into a car when nobody has said whose money it is, whether they have a licence, or whether they need one.",
+      "fact": "The record gives no income, savings, or source of the $10000 (savings or borrowed), and the defense itself conceded it cannot defend the purchase if the money is borrowed or drains their savings.",
+      "flip": "The case stated that the $10000 is the student's own spare savings, with a further budget set aside for a year of insurance, registration and servicing, and that they already hold a licence and have a real need for a car."
+    },
+    {
+      "juror": "The Investor",
+      "vote": "GUILTY",
+      "reason": "As an investor I would not put money into a depreciating asset with no known funding source, no known income, no known need and no running-cost budget, so as described it should not go ahead.",
+      "fact": "The record gives no income or savings and does not say whether the $10000 is savings or borrowed, and the defense itself conceded it cannot defend the purchase if the money is borrowed or drains all their savings.",
+      "flip": "The case stated that the $10000 is the student's own spare savings, with running costs (registration, insurance, repairs) separately covered and a real need for the car."
+    },
+    {
+      "juror": "The Designer",
+      "vote": "GUILTY",
+      "reason": "A stranger reading \"Should I buy a $10000 used car?\" from a Year 12 student can't tell in five seconds whether it's smart or reckless, because the case leaves out the one thing that makes it matter, which is where the money comes from.",
+      "fact": "The record gives no income, no savings, and no statement of whether the $10000 is savings or borrowed, and the defense itself concedes it cannot defend the purchase if the money is borrowed or drains all their savings.",
+      "flip": "The case stated up front that the $10000 is the student's own spare savings, with running costs (registration, insurance, servicing) covered separately."
+    },
+    {
+      "juror": "The Lawyer",
+      "vote": "GUILTY",
+      "reason": "As a lawyer I see that the case never says whether the student is old enough to sign a binding purchase or finance contract, holds a licence, or can legally register and insure the car, and a $10000 purchase that may be borrowed and made from a dealer or a private seller should not proceed with those questions open.",
+      "fact": "The record gives only \"Year 12 student\" and \"no ... seller type ... or whether the $10000 is savings or borrowed\", so age, contract capacity, licence status and the buyer's legal protection are all unknown.",
+      "flip": "The case stated that the student is 18 or older with a full or probationary licence, is paying with their own savings, and is buying from a licensed dealer with a roadworthy certificate and insurance arranged."
+    }
+  ]
+}
