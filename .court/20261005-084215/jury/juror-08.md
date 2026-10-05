@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: The record's only base rates (about 95% of engineering graduates in full-time work three years out, and engineers entering finance at the same 28% rate as all other graduates) show an engineering-first plan has a safe floor, and the gaps the prosecution lists are unchecked facts rather than evidence the plan fails.
+DECIDING FACT: "About 95% of engineering graduates in full-time work three years after graduating" and "28% of UK engineering graduates enter finance and business, the same rate as all other graduates", so engineering is not a worse route into finance than any other degree, even though the figures are unchecked snippets.
+WOULD FLIP IF: Evidence showed that adding Commerce later at Monash is impossible or heavily penalised while engineering-only graduates rarely enter finance in Australia, so that the plan quietly closes the finance option it claims to keep open.

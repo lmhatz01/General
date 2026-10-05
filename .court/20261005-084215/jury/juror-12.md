@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: I found no legal or liability trap that makes this plan unsafe to start, because engineering-first is the lower-commitment path and the record's gaps (Commerce rules, HECS-HELP load, overseas work rights, which the case never mentions) are checkable facts that do not need a stop.
+DECIDING FACT: The unknowns are "whether Commerce can be added or dropped later at Monash" and the load effect, which are rules Monash can confirm, and the record offers "Engineering with finance electives or a minor" as a fallback, so no door is shown to be closed.
+WOULD FLIP IF: Monash's rules showed Commerce could not be added after starting engineering and the double degree was his only route to finance, or his citizenship or visa status meant he could not legally work in the overseas motorsport roles the plan relies on.

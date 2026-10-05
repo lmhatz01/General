@@ -1,0 +1,92 @@
+{
+  "verdict": "NOT GUILTY",
+  "guilty": 0,
+  "not_guilty": 12,
+  "no_vote": 0,
+  "jurors": [
+    {
+      "juror": "The Accountant",
+      "vote": "NOT GUILTY",
+      "reason": "The money figures are thin snippets, but the plan costs little to start: engineering-first with finance electives adds no extra years of HECS-HELP debt, and the Commerce rule is a checkable fact that can be fixed before any larger spend.",
+      "fact": "The record reports about 95% of engineering graduates in full-time work three years after graduating and about $26,000 more earnings than other graduates five years in (unchecked snippets, year unconfirmed), which cushions the low motorsport pay.",
+      "flip": "Monash's rules showed Commerce cannot be added or dropped later and Lukas planned the extended double degree, adding years of HECS-HELP debt with no sourced evidence of a finance payoff."
+    },
+    {
+      "juror": "The First-Time Customer",
+      "vote": "NOT GUILTY",
+      "reason": "As someone coming to this cold, I would start with Monash mechanical engineering this week, because it is a strong base whichever way he goes and the unchecked Commerce rule is one email away.",
+      "fact": "The record shows about 95% of engineering graduates in full-time work three years out, and engineers enter finance at the same rate as other graduates (28% in the UK), so choosing engineering first keeps the finance option open even without a proven edge.",
+      "flip": "Monash confirmed that Commerce cannot be added or dropped later, so that starting engineering-only would permanently close finance, which he says he wants as a secondary pathway."
+    },
+    {
+      "juror": "The Competitor",
+      "vote": "NOT GUILTY",
+      "reason": "As a rival I would simply ignore this plan, because engineering-first with Formula SAE build experience is the standard strong entry route that everyone else is also running, and the unchecked Commerce rules are a gap he can close, not a flaw I could exploit.",
+      "fact": "Engineering with finance electives or a minor is an available option, and engineering graduates reportedly enter finance and business at the same 28% rate as all other graduates (UK figure), so engineering-first costs him no finance access.",
+      "flip": "Monash's rules showed Commerce cannot be added or dropped later and the double-degree load would cut his WAM or Formula SAE time, while his finance interest was serious, so engineering-only would lock the finance door."
+    },
+    {
+      "juror": "The Retired Judge",
+      "vote": "NOT GUILTY",
+      "reason": "The prosecution proved that the evidence is thin, but it did not prove the plan fails, since engineering-first needs only the modest claim that the degree keeps options open, and the record's own figures (14% in IT outside engineering, finance listed among destinations, 28% UK finance entry equal to other graduates) show no disadvantage.",
+      "fact": "The record says 28% of UK engineering graduates enter finance and business, the same rate as all other graduates, which shows no finance penalty from engineering alone, and that is all Lukas claimed.",
+      "flip": "The Monash check showed that Commerce cannot be added or dropped later and that the double degree is the only route to finance, while the plan still commits him to engineering only."
+    },
+    {
+      "juror": "The Teenager",
+      "vote": "NOT GUILTY",
+      "reason": "Honestly the kid wants to build race cars and he's already designing V12 engines for fun, so doing mechanical engineering and Formula SAE is something he'll actually stick with, and the missing bits are just stuff he can email Monash about.",
+      "fact": "He is already doing engine-design work and plans Formula SAE, and the core plan (Monash mechanical engineering) leaves him with a degree where about 95% are in full-time work three years out whichever way it goes.",
+      "flip": "The record showed Commerce could not be added later and he had to pick the double degree now or lose finance, while also showing he would refuse low-paid junior motorsport jobs overseas, so the one thing he actually wants would go nowhere."
+    },
+    {
+      "juror": "The Engineer",
+      "vote": "NOT GUILTY",
+      "reason": "As an engineer I see a buildable plan: Monash mechanical with Formula SAE is a sound base, and the open questions (Commerce add/drop rules, WAM load) are cheap to check and don't break the design.",
+      "fact": "The record says engineering graduates have about 95% full-time employment three years out and the plan's finance option is a checkable Monash rule, so a fallback exists whichever way the rule turns out.",
+      "flip": "Monash confirmed Commerce cannot be added after the first year and the engineering-only route had no finance entry at all (or the load clearly made Formula SAE unworkable)."
+    },
+    {
+      "juror": "The Small-Business Owner",
+      "vote": "NOT GUILTY",
+      "reason": "A Year 12 kid starting a mechanical engineering degree is not betting the shop, because the degree pays the bills if motorsport doesn't, and the open questions (Commerce rules, WAM load) are phone calls to Monash, not reasons to stop.",
+      "fact": "About 95% of engineering graduates are in full-time work three years after graduating, and they earn about $26,000 more than other graduates five years in (as reported in snippets, unchecked), so the slow-month cushion exists even if F1 pay and entry disappoint.",
+      "flip": "Monash's rules showed that Commerce cannot be added later and the double degree is the only way to keep finance open, while its load would also wreck his WAM and Formula SAE time, so that he faced a costly forced choice with no cheap fallback."
+    },
+    {
+      "juror": "The Statistician",
+      "vote": "NOT GUILTY",
+      "reason": "The record's only base rates (about 95% of engineering graduates in full-time work three years out, and engineers entering finance at the same 28% rate as all other graduates) show an engineering-first plan has a safe floor, and the gaps the prosecution lists are unchecked facts rather than evidence the plan fails.",
+      "fact": "\"About 95% of engineering graduates in full-time work three years after graduating\" and \"28% of UK engineering graduates enter finance and business, the same rate as all other graduates\", so engineering is not a worse route into finance than any other degree, even though the figures are unchecked snippets.",
+      "flip": "Evidence showed that adding Commerce later at Monash is impossible or heavily penalised while engineering-only graduates rarely enter finance in Australia, so that the plan quietly closes the finance option it claims to keep open."
+    },
+    {
+      "juror": "The Parent",
+      "vote": "NOT GUILTY",
+      "reason": "As a parent I would happily back a teenager starting with a well-paid, widely portable engineering degree and checking Monash's Commerce rules before taking on extra years of HECS debt, because the plan itself spends little and keeps the door open.",
+      "fact": "The record reports about 95% of engineering graduates in full-time work three years after graduating and roughly $26,000 more earned than other graduates five years in, so the safe base holds even if motorsport pay disappoints (figures are unchecked snippets).",
+      "flip": "Monash's rules showed that Commerce cannot be added later and that the finance route is closed to engineering-only students, while Lukas also said he would refuse low-paid junior motorsport roles overseas, leaving neither path usable."
+    },
+    {
+      "juror": "The Investor",
+      "vote": "NOT GUILTY",
+      "reason": "As an investor I would back this because engineering-first is the cheap, low-regret entry with a strong fallback degree, and the unchecked Commerce rule is a quick question to ask Monash, not a reason to stop.",
+      "fact": "Engineering graduates reportedly have about 95% full-time employment three years out and earn about $26,000 more than other graduates five years in, so the downside is cushioned even if motorsport pay disappoints.",
+      "flip": "Monash confirmed that Commerce cannot be added later and that the double degree's load would not seriously hurt WAM or Formula SAE, making the engineering-only start close the finance door for good."
+    },
+    {
+      "juror": "The Designer",
+      "vote": "NOT GUILTY",
+      "reason": "A stranger gets it in five seconds (do Monash mechanical engineering for motorsport, keep finance as a fallback), and the open questions are checkable facts rather than flaws in that simple plan.",
+      "fact": "The unresolved items, whether Commerce can be added or dropped later at Monash and the WAM and Formula SAE load, are listed in the case file as \"Not yet checked\", which makes them gaps to fill and not evidence that the plan is wrong.",
+      "flip": "Monash's rules showed Commerce cannot be added later and the double degree would wreck his WAM and Formula SAE time, so that \"engineering first, finance open\" turned out to be a promise the plan cannot keep."
+    },
+    {
+      "juror": "The Lawyer",
+      "vote": "NOT GUILTY",
+      "reason": "I found no legal or liability trap that makes this plan unsafe to start, because engineering-first is the lower-commitment path and the record's gaps (Commerce rules, HECS-HELP load, overseas work rights, which the case never mentions) are checkable facts that do not need a stop.",
+      "fact": "The unknowns are \"whether Commerce can be added or dropped later at Monash\" and the load effect, which are rules Monash can confirm, and the record offers \"Engineering with finance electives or a minor\" as a fallback, so no door is shown to be closed.",
+      "flip": "Monash's rules showed Commerce could not be added after starting engineering and the double degree was his only route to finance, or his citizenship or visa status meant he could not legally work in the overseas motorsport roles the plan relies on."
+    }
+  ]
+}
