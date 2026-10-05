@@ -1,0 +1,4 @@
+VOTE: NOT GUILTY
+REASON: As a lawyer I find no legal, regulatory or liability trap that makes this modest, general claim unsound, and the prosecution's case rests on missing evidence (which is not the same as the claim being wrong) while the claim itself never promises entry into any industry.
+DECIDING FACT: The defense's point that the claim is general ("versatile for many industries") and not a guarantee or a forecast for Lukas, and the prosecution's own rebuttal admits the record is merely silent on whether engineering alone opens finance, not that it contradicts it.
+WOULD FLIP IF: The record showed that finance or consulting employers screen out engineering-only graduates, or that the degree route Lukas needs (for example Engineers Australia accreditation or work-rights requirements for overseas motorsport roles) is blocked or compromised by the option the claim steers him toward.

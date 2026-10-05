@@ -1,0 +1,92 @@
+{
+  "verdict": "HUNG JURY",
+  "guilty": 6,
+  "not_guilty": 6,
+  "no_vote": 0,
+  "jurors": [
+    {
+      "juror": "The Accountant",
+      "vote": "GUILTY",
+      "reason": "A multi-year, multi-thousand-dollar degree choice is being justified by a claim with no figures behind it (no graduate outcomes, no fees, no extra years or lost earnings for a Commerce double degree), and I will not back a spend I cannot cost or source.",
+      "fact": "The defense itself conceded that \"nothing in the file shows that Monash specifically beats other schools, or that engineers actually move into finance or consulting\", so the versatility claim has no evidence on the record.",
+      "flip": "The case supplied sourced Monash graduate-outcome data showing mechanical engineering graduates entering finance and consulting, plus the cost and added time of the double degree against engineering with electives."
+    },
+    {
+      "juror": "The First-Time Customer",
+      "vote": "GUILTY",
+      "reason": "Hearing this cold, I'd be asked to bet years of study on \"versatile\" and \"top school\" with nothing shown to me, and it doesn't tell me which of the four options to pick this week.",
+      "fact": "The defense itself conceded that nothing in the file shows engineers actually move into finance or consulting, or that Monash beats other schools, which are the two things the claim asserts.",
+      "flip": "The case included actual graduate outcome data showing Monash mechanical engineering graduates getting into both motorsport and finance or consulting roles without a Commerce degree."
+    },
+    {
+      "juror": "The Competitor",
+      "vote": "NOT GUILTY",
+      "reason": "As a rival I would not bother attacking this claim; it is a modest \"keeps options open\" pitch, and an unproven premise is a gap to check, not a reason to stop Lukas going ahead with an engineering-first plan.",
+      "fact": "The claim says only that the degree is \"versatile for many industries\", and the record shows his primary goal (mechanical engineering for motorsport) is directly served by Mechanical Engineering at Monash, with finance listed as \"secondary\".",
+      "flip": "The record showed that engineering-only graduates are not competitive for finance and consulting roles, so that his finance goal would in practice need Commerce."
+    },
+    {
+      "juror": "The Retired Judge",
+      "vote": "GUILTY",
+      "reason": "The burden sits with whoever asserts the claim, and the record holds nothing but assertion, so I find \"versatile for many industries\" unproven as stated.",
+      "fact": "The defense itself concedes that \"nothing in the file shows that Monash specifically beats other schools, or that engineers actually move into finance or consulting\", and the file has no graduate outcome data at all.",
+      "flip": "The record contained graduate outcome or employer hiring data showing that Monash mechanical engineering graduates are actually hired into finance and consulting as well as motorsport."
+    },
+    {
+      "juror": "The Teenager",
+      "vote": "GUILTY",
+      "reason": "It's a \"degrees are versatile\" line everyone's heard a thousand times, it doesn't tell Lukas which of his four options to pick, and nobody would remember it next week.",
+      "fact": "The defense conceded that nothing in the file shows engineers actually move into finance or consulting, or that Monash beats other schools, so the claim is just asserted.",
+      "flip": "The claim came with real Monash graduate outcome data showing engineering-only grads landing finance and consulting jobs, and said which of his options it backs."
+    },
+    {
+      "juror": "The Engineer",
+      "vote": "NOT GUILTY",
+      "reason": "As an engineer I see a modest claim and an engineering-first plan that works and can be adjusted later, so the missing outcome data calls for checking, not for stopping.",
+      "fact": "Two of Lukas's listed options, Engineering alone and Engineering with finance electives, keep the Formula SAE time and technical depth his primary motorsport goal needs, so the plan does not depend on the finance part of the claim being proven.",
+      "flip": "The record showed that Monash engineering-only graduates are rarely hired into finance or consulting and that motorsport employers also require or favour a Commerce double degree, so the claim would mislead his choice."
+    },
+    {
+      "juror": "The Small-Business Owner",
+      "vote": "NOT GUILTY",
+      "reason": "As a shop owner I would call this a cheap, low-risk plan, because an engineering-first degree keeps his hands-on Formula SAE time and costs no extra years of fees, so the missing finance evidence is a thing to check, not a reason to stop.",
+      "fact": "At least two of his listed options are engineering-first (Engineering alone, or Engineering with finance electives), so he does not have to bet on the finance claim being true and can add Commerce later if the evidence says he needs it.",
+      "flip": "The record showed that finance and consulting employers screen out engineering-only graduates, so that skipping Commerce would lock him out of his secondary goal."
+    },
+    {
+      "juror": "The Statistician",
+      "vote": "NOT GUILTY",
+      "reason": "The record has no outcome data either way, so I cannot show the claim fails, and a broad \"versatile for many industries\" claim is a weak one that the engineering-first plan does not depend on being true everywhere.",
+      "fact": "Both sides agree the file holds no graduate outcome data, and at least two of Lukas's options (engineering alone, or engineering with finance electives) are engineering-first, so the plan does not need the finance and consulting part of the claim to hold.",
+      "flip": "The record showed that Monash engineering-only graduates rarely enter finance or consulting while Commerce double-degree graduates do, and that finance is a goal Lukas must keep, which would make the claim misleading for his decision."
+    },
+    {
+      "juror": "The Parent",
+      "vote": "NOT GUILTY",
+      "reason": "As a parent I see a modest claim that leaves my kid on the engineering-first path he already wants, where the worst case is that he adds finance later, so the risk to his time and money is small even though nobody has shown the proof.",
+      "fact": "The defense's point that at least two of his options (Engineering alone, Engineering with finance electives) are engineering-first and protect Formula SAE time and technical depth, so the claim being only partly proven does not push him into a costly or irreversible choice.",
+      "flip": "The record showed that engineering-only graduates are shut out of finance and consulting, or that the claim was being used to talk him out of the Commerce double degree he would actually need."
+    },
+    {
+      "juror": "The Investor",
+      "vote": "GUILTY",
+      "reason": "I would not put my own money behind a claim whose only support is assertion, because the upside it promises (reaching finance and consulting) has no evidence behind it, even though the engineering-first downside looks cheap.",
+      "fact": "The defense conceded that \"nothing in the file shows... that engineers actually move into finance or consulting\", and that is the exact question Lukas asked.",
+      "flip": "The record held graduate outcome data showing Monash engineering-only graduates are hired into finance and consulting roles at a meaningful rate."
+    },
+    {
+      "juror": "The Designer",
+      "vote": "GUILTY",
+      "reason": "A stranger would grasp the sentence in five seconds, but they could not say why it matters or what Lukas should do, because it is a vague general slogan that never picks between his four options.",
+      "fact": "The defense conceded that nothing in the record shows engineers actually move into finance or consulting, and that is the exact question Lukas asked.",
+      "flip": "The claim were restated as a specific, evidenced recommendation for his choice, such as engineering with finance electives keeps finance open and protects Formula SAE time, backed by graduate outcome data."
+    },
+    {
+      "juror": "The Lawyer",
+      "vote": "NOT GUILTY",
+      "reason": "As a lawyer I find no legal, regulatory or liability trap that makes this modest, general claim unsound, and the prosecution's case rests on missing evidence (which is not the same as the claim being wrong) while the claim itself never promises entry into any industry.",
+      "fact": "The defense's point that the claim is general (\"versatile for many industries\") and not a guarantee or a forecast for Lukas, and the prosecution's own rebuttal admits the record is merely silent on whether engineering alone opens finance, not that it contradicts it.",
+      "flip": "The record showed that finance or consulting employers screen out engineering-only graduates, or that the degree route Lukas needs (for example Engineers Australia accreditation or work-rights requirements for overseas motorsport roles) is blocked or compromised by the option the claim steers him toward."
+    }
+  ]
+}
