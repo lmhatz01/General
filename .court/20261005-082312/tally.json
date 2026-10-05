@@ -1,0 +1,92 @@
+{
+  "verdict": "NOT GUILTY",
+  "guilty": 1,
+  "not_guilty": 11,
+  "no_vote": 0,
+  "jurors": [
+    {
+      "juror": "The Accountant",
+      "vote": "NOT GUILTY",
+      "reason": "The money question that matters here (extra years and HECS-HELP debt for a double degree) is a real cost, but the record shows it is an optional, reversible choice made later, so the plan can go ahead and the missing salary and location figures call for questions, not a stop.",
+      "fact": "Every route in the file starts with the same Monash Mechanical Engineering degree, with Commerce (Finance) only an add-on option, so nothing commits Lukas to the extra cost now.",
+      "flip": "The record showed that the double degree was already locked in as the plan, with a sourced cost (extra years, HECS-HELP debt) and no evidence of any payoff in motorsport or finance pay."
+    },
+    {
+      "juror": "The First-Time Customer",
+      "vote": "NOT GUILTY",
+      "reason": "As someone who just wants usable advice this week, I'd happily act on \"start Mechanical Engineering at Monash and keep Commerce as an option\", because that plan works whichever career he picks and the missing salary and relocation details only make the answer conditional, not impossible.",
+      "fact": "Every route in the file starts with the same Monash Mechanical Engineering degree (\"either alone or as a double degree with Commerce (Finance)... Also considering engineering with finance electives/minor\"), so he can go ahead now without settling the career question.",
+      "flip": "The record showed that the double degree or stretched load would measurably cost the WAM and Formula SAE time his primary motorsport goal depends on, or that relocation overseas is something he will not do, which would make the \"keep both open\" plan a poor fit."
+    },
+    {
+      "juror": "The Competitor",
+      "vote": "NOT GUILTY",
+      "reason": "As someone competing for the same scarce motorsport and finance jobs, I would worry least about a candidate who starts with a mechanical engineering degree and Formula SAE experience, and whose open questions (relocation, salary, double degree or not) can be settled later without stopping him from starting.",
+      "fact": "The file says every pathway starts with Engineering (Mechanical) at Monash, \"either alone or as a double degree with Commerce (Finance)\", so the early commitment is the same whichever career he picks.",
+      "flip": "The record showed that the double degree was the only route on offer and that it would measurably lower his WAM and Formula SAE time, which would weaken his primary motorsport path."
+    },
+    {
+      "juror": "The Retired Judge",
+      "vote": "NOT GUILTY",
+      "reason": "The prosecution proved gaps in the record, but gaps in information call for questions back to the student, not for finding that a sound start (engineering first, finance optional) should not go ahead, and the prosecution's claims about employer screening and relocation are as much hope as the defense's.",
+      "fact": "Every route in the file starts with the same Monash Mechanical Engineering degree, so the missing salary, location and relocation figures make the answer conditional rather than impossible.",
+      "flip": "The record showed that the double degree or stretched load measurably cost the WAM or Formula SAE time needed for the motorsport path he calls primary, or that relocation unwillingness rules out motorsport roles, so that keeping both options open actually closes the main one."
+    },
+    {
+      "juror": "The Teenager",
+      "vote": "NOT GUILTY",
+      "reason": "A kid who is obsessed with F1 and builds stuff is going to keep caring and keep talking about it, so the plan is fine and the missing salary and location stuff is just a question to ask him later.",
+      "fact": "Lukas lists specific skills he wants to build (CAD, suspension, aerodynamics, data acquisition) and has already looked up specific Monash electives like MMA3101, which shows real, ongoing interest rather than a passing phase.",
+      "flip": "The record showed that he would only do the double degree out of boredom or pressure, or that his interest in motorsport was shallow, for example no engagement beyond one elective lookup."
+    },
+    {
+      "juror": "The Engineer",
+      "vote": "NOT GUILTY",
+      "reason": "As an engineer I see a buildable plan: start the same Mechanical Engineering degree, and the Commerce add-on is a low-cost adjustment that can be made later, so the missing salary and relocation figures make the advice conditional and do not make it unworkable.",
+      "fact": "Every route in the file begins with Monash Mechanical Engineering (\"either alone or as a double degree with Commerce\"), so nothing about the first step depends on resolving motorsport versus finance now.",
+      "flip": "The record showed that the double degree must be locked in at preference time and cannot be added or dropped later, or that Lukas would not relocate, which would rule out the motorsport route he calls primary."
+    },
+    {
+      "juror": "The Small-Business Owner",
+      "vote": "NOT GUILTY",
+      "reason": "Every route starts with the same mechanical engineering degree, the tuition cash is deferred through HECS-HELP, and the missing relocation and salary answers can be asked of Lukas later without stopping him from starting.",
+      "fact": "The file says every pathway is Monash Mechanical Engineering, \"either alone or as a double degree with Commerce (Finance)\", so the first-year work is the same whichever career he picks and the choice can wait.",
+      "flip": "The record showed that the double degree or stretched load would cost him his Formula SAE place or the WAM he needs for his primary motorsport goal, or that he can't carry the extra HECS-HELP debt and years if motorsport jobs don't come."
+    },
+    {
+      "juror": "The Statistician",
+      "vote": "NOT GUILTY",
+      "reason": "Starting a mechanical engineering degree with Formula SAE is a broad, low-regret first step that serves both careers, and the missing inputs (salary, location, willingness to move) make the advice conditional, not the plan unsound.",
+      "fact": "Every route in the file begins with the same Monash Mechanical Engineering degree, so the motorsport-or-finance choice does not have to be made yet.",
+      "flip": "The record showed that the double degree or stretched load measurably cuts WAM and Formula SAE time, and that Lukas has already committed to it for a motorsport career where the few jobs depend on those very things."
+    },
+    {
+      "juror": "The Parent",
+      "vote": "NOT GUILTY",
+      "reason": "As a parent I see a sensible, low-risk plan, since every route starts with the same mechanical engineering degree and nothing has to be paid for or locked in until he has real evidence from university, so the gaps are things to ask him rather than reasons to stop.",
+      "fact": "The file says every option starts from \"Engineering (Mechanical)\", either alone, as a double degree with Commerce, or with finance electives or a minor, so the costly choice (extra years and HECS-HELP debt) can be made later.",
+      "flip": "The record showed the double degree or the longer timeline had to be committed to now, with a real cost in debt or lost Formula SAE time, or that Lukas would not move overseas and so had no realistic route into motorsport."
+    },
+    {
+      "juror": "The Investor",
+      "vote": "NOT GUILTY",
+      "reason": "As an investor I would back this: starting Mechanical Engineering is a cheap, option-preserving first step with a capped downside, and the missing salary and relocation figures make the advice conditional, not the plan unsound.",
+      "fact": "Every route in the file starts with the same Monash Mechanical Engineering degree (\"either alone or as a double degree with Commerce (Finance)\"), so the costly commitments (the double degree, the stretched load, HECS-HELP debt) can be decided later.",
+      "flip": "The record showed Lukas had already committed to the full double degree with HECS-HELP debt, or that relocation overseas was ruled out, which would leave motorsport jobs out of reach and make the extra cost unjustifiable."
+    },
+    {
+      "juror": "The Designer",
+      "vote": "GUILTY",
+      "reason": "A stranger reading the question \"motorsport or finance\" would not see in five seconds that the real decision is whether to add Commerce to Engineering, so the case as stated points at the wrong thing and buries what matters under side topics.",
+      "fact": "The case file calls finance only \"a secondary pathway being considered\" and lists every route as starting with Monash Mechanical Engineering, so the headline either/or question is not the choice actually on the table (the defense's rebuttal concedes it \"dents the framing\").",
+      "flip": "The case were restated as one clear question, such as \"Mechanical Engineering alone or with Commerce (Finance) at Monash, given I want F1 engineering\", with a stated willingness to relocate overseas."
+    },
+    {
+      "juror": "The Lawyer",
+      "vote": "NOT GUILTY",
+      "reason": "Looking for legal or liability traps, I find none that block this plan: it is a lawful degree choice with ordinary HECS-HELP debt, and the missing relocation and salary details make any advice conditional, not impossible.",
+      "fact": "The record shows only a choice of university degree structure (Engineering alone, a double degree with Commerce, or finance electives, with HECS-HELP as a funding option), with no contract, visa, regulatory or liability commitment made.",
+      "flip": "The record showed Lukas was locked into something binding or risky, such as a visa-dependent overseas motorsport job, a sponsorship or bond, or HECS-HELP limits that would stop the stretched double degree from being funded."
+    }
+  ]
+}
