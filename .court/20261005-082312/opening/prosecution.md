@@ -1,0 +1,11 @@
+**Charge: the case fails as stated and should not go ahead as described.**
+
+1. **The question is a false binary that the case itself contradicts.** It asks "motorsport or in finance," yet the same file says finance is only "a secondary pathway being considered" and engineering is the background for both. The decision actually needed is whether to add Commerce to Engineering. Answering "motorsport vs finance" at age 17 resolves the wrong question. Cost: advice aimed at the wrong decision, with the real one (degree structure) left unsettled.
+
+2. **The central decision is asked without its decisive inputs.** The file states: "No figures given on salary expectations, location preferences, or willingness to move overseas." F1 engineering is concentrated in a few locations, mostly outside Victoria. Willingness to relocate may decide the whole question, and it is missing. Cost: any recommendation rests on guesses about the one variable that matters most.
+
+3. **The plan is not an either/or choice, and it is pitched to be both.** The file lists a double degree, "engineering with finance electives/minor," and a stretched load of "about three units per semester" using HECS-HELP. It also names the user's own worry: the double degree "may reduce WAM, time for Monash Formula SAE, and depth of technical engineering skill." The case names the costs but gives no way to weigh them. Cost: extra years and HECS-HELP debt, plus a weaker WAM and thinner Formula SAE involvement, which are the things motorsport employers screen on.
+
+4. **Subject-level advice is requested before the foundation exists.** The user is in Year 12, with results still pending ("Aiming for strong results"). Yet the file asks for advice on Monash electives like "MMA3101." Entry to the course, and later electives, depend on results and first-year performance that the file does not report. Cost: effort spent planning electives for a course place that is not yet secured.
+
+5. **Peripheral interests dilute the case.** V12/V16 engine trade-offs and whether go-karting builds skills are raised alongside a career question, with no link to either career path. The file also contains no evidence about finance beyond the word "pathway": no named roles, firms or reasons for interest. Cost: the finance side is untested, so the comparison is lopsided and cannot be decided fairly.
