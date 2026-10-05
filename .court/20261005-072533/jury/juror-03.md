@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: As the rival who would be hiring or beating him for an F1 or engineering seat, I'd happily see him spread thin over six years with restricted technical electives against a single-degree student who has full CFD and vehicle dynamics depth, and nothing shown says the full Commerce degree beats a cheaper finance minor.
+DECIDING FACT: Both sides agree the record has no evidence that the full Commerce degree adds anything over Mech Eng plus finance electives or a minor, while the case itself concedes that fewer units per semester creates no extra elective slots and that Student A "may be stronger for F1".
+WOULD FLIP IF: Verified Monash rules for his commencement year showed that MMA3101 and similar technical depth are available in the double degree without additional units, and that the full Commerce degree gives a clear advantage over a minor for finance entry.

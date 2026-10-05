@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: The plan spends two extra years and a lower-WAM risk on a second degree with no base-rate or outcome data showing it beats Mech plus a finance minor, while the top goal (F1) is a tiny-odds target where WAM, technical depth and internships are the known discriminators.
+DECIDING FACT: Even the defense concedes the record has no evidence that the full Commerce degree carries more signalling weight than finance electives or a minor, and the case states the rules (CFD access, additional units, maximum duration) were not verified before "I chose".
+WOULD FLIP IF: Verified Monash rules and outcome data showed the double degree keeps CFD and similar electives available within the six-year spread and that the full degree materially improves finance and consulting entry over a minor.

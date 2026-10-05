@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: As the lawyer, I see a decision announced as made ("I chose") while every rule it depends on (maximum duration, reduced load, additional units, CSP/HECS-HELP treatment of a six-year spread, commencement-year course structure) is unchecked, so it should not go ahead as described.
+DECIDING FACT: The case file says he "has not verified whether it is available in the double degree, whether it needs to be an additional unit, its prerequisites, or whether rules will change by his commencement year", and the defense itself admits the record holds no verified Monash rules on maximum duration, reduced load, additional units or HECS limits.
+WOULD FLIP IF: The case showed written Monash rules for his commencement year confirming that a six-year reduced-load path is permitted and CSP/HECS-HELP funded, and that MMA3101 or equivalent CFD depth is available in the double degree without an unfunded additional unit.

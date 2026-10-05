@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: Nobody has put a number on what Option C costs in two years of delayed full-time income, extra HECS accrual and lost internship time, and the record shows no evidence that the full Commerce degree pays back more than Mech Eng plus a finance minor, so the spend is unjustified as described.
+DECIDING FACT: The defense itself concedes the record has no evidence that the full Commerce degree carries more weight than finance electives or a minor, while the 6-year spread adds delayed income and HECS accrual and, in his own words, "does not create extra elective slots".
+WOULD FLIP IF: Verified Monash rules and outcome data showed the full Commerce degree clearly beats a minor for the finance and consulting roles he wants, with MMA3101/CFD confirmed available in the double degree and the extra-year cost shown to be small against the earnings gain.

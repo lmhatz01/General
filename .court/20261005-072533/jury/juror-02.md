@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: As someone hearing this fresh, I would not lock in a six-year double degree this week when the thing he cares about most, access to CFD and technical depth, is unchecked and a cheaper option (Mech Eng plus finance electives or a minor) is still open.
+DECIDING FACT: The record says he "has not verified whether it is available in the double degree, whether it needs to be an additional unit, its prerequisites, or whether rules will change by his commencement year," and the defense itself concedes there is no evidence the full Commerce degree beats a minor.
+WOULD FLIP IF: The case showed verified current Monash rules confirming MMA3101 and similar technical electives are accessible in the double degree within a reduced-load, six-year duration, plus evidence that the full Commerce degree gives a real advantage over a finance minor.

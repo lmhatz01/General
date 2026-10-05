@@ -1,0 +1,92 @@
+{
+  "verdict": "GUILTY",
+  "guilty": 12,
+  "not_guilty": 0,
+  "no_vote": 0,
+  "jurors": [
+    {
+      "juror": "The Accountant",
+      "vote": "GUILTY",
+      "reason": "Nobody has put a number on what Option C costs in two years of delayed full-time income, extra HECS accrual and lost internship time, and the record shows no evidence that the full Commerce degree pays back more than Mech Eng plus a finance minor, so the spend is unjustified as described.",
+      "fact": "The defense itself concedes the record has no evidence that the full Commerce degree carries more weight than finance electives or a minor, while the 6-year spread adds delayed income and HECS accrual and, in his own words, \"does not create extra elective slots\".",
+      "flip": "Verified Monash rules and outcome data showed the full Commerce degree clearly beats a minor for the finance and consulting roles he wants, with MMA3101/CFD confirmed available in the double degree and the extra-year cost shown to be small against the earnings gain."
+    },
+    {
+      "juror": "The First-Time Customer",
+      "vote": "GUILTY",
+      "reason": "As someone hearing this fresh, I would not lock in a six-year double degree this week when the thing he cares about most, access to CFD and technical depth, is unchecked and a cheaper option (Mech Eng plus finance electives or a minor) is still open.",
+      "fact": "The record says he \"has not verified whether it is available in the double degree, whether it needs to be an additional unit, its prerequisites, or whether rules will change by his commencement year,\" and the defense itself concedes there is no evidence the full Commerce degree beats a minor.",
+      "flip": "The case showed verified current Monash rules confirming MMA3101 and similar technical electives are accessible in the double degree within a reduced-load, six-year duration, plus evidence that the full Commerce degree gives a real advantage over a finance minor."
+    },
+    {
+      "juror": "The Competitor",
+      "vote": "GUILTY",
+      "reason": "As the rival who would be hiring or beating him for an F1 or engineering seat, I'd happily see him spread thin over six years with restricted technical electives against a single-degree student who has full CFD and vehicle dynamics depth, and nothing shown says the full Commerce degree beats a cheaper finance minor.",
+      "fact": "Both sides agree the record has no evidence that the full Commerce degree adds anything over Mech Eng plus finance electives or a minor, while the case itself concedes that fewer units per semester creates no extra elective slots and that Student A \"may be stronger for F1\".",
+      "flip": "Verified Monash rules for his commencement year showed that MMA3101 and similar technical depth are available in the double degree without additional units, and that the full Commerce degree gives a clear advantage over a minor for finance entry."
+    },
+    {
+      "juror": "The Retired Judge",
+      "vote": "GUILTY",
+      "reason": "The burden sits on the party who says \"I chose\" the costlier path, and the record holds only hope: nothing shows the full Commerce degree beats the cheaper finance-minor alternative, and the CFD access the plan depends on is unverified.",
+      "fact": "The defense itself conceded that the record has no evidence that the full degree carries more signalling weight than electives or a minor, and the file admits MMA3101 availability, additional-unit rules and commencement-year rules are all unverified.",
+      "flip": "The case showed, from verified Monash handbook rules for his commencement year, that MMA3101 or equivalent depth is available in the double degree and that a six-year duration is permitted, together with evidence that the full Commerce degree improves finance or consulting entry over Mech Eng plus a finance minor."
+    },
+    {
+      "juror": "The Teenager",
+      "vote": "GUILTY",
+      "reason": "Honestly it sounds like a kid hedging against his own dream, and nobody is going to care about a second degree when the F1 CV is what gets talked about, so spending up to six years on it without even checking the rules feels like a snooze.",
+      "fact": "The defense itself admits the record has no evidence that the full Commerce degree beats Mech Eng plus finance electives or a minor, which he already listed as an alternative.",
+      "flip": "He verified that MMA3101 (CFD) and similar technical depth are available in the double degree, and showed the full Commerce degree opens finance doors that a minor cannot."
+    },
+    {
+      "juror": "The Engineer",
+      "vote": "GUILTY",
+      "reason": "As an engineer I would not commit to a build whose key interface (CFD and technical electives inside a rigid double-degree structure) is unchecked, when a cheaper option with the same finance exposure is conceded to be live.",
+      "fact": "The record states that fewer units per semester \"does not create extra elective slots\" and that MMA3101 availability, additional-unit rules and commencement-year rules are all unverified, so Option C adds time and cost without adding technical depth.",
+      "flip": "Monash's rules for his commencement year confirmed that CFD (MMA3101) and similar technical electives fit inside the double degree without extra units, and that a full Commerce degree gives finance entry that a minor does not."
+    },
+    {
+      "juror": "The Small-Business Owner",
+      "vote": "GUILTY",
+      "reason": "I'd never sign up for two extra years of unpaid-for time and effort on a plan where nobody has checked that the key piece (CFD access, duration limits) is even allowed, when a cheaper option that does the same finance job is sitting right there.",
+      "fact": "Both sides agree the record has no evidence that the full Commerce degree beats Mech Eng plus finance electives or a minor, while Option C adds delayed income, more HECS accrual and opportunity cost and, in his own words, no extra elective slots.",
+      "flip": "Monash's rules for his commencement year were verified to allow CFD (MMA3101) and a six-year duration within the double degree, and there was evidence that the full Commerce degree gives a real edge over a finance minor for the finance roles he wants."
+    },
+    {
+      "juror": "The Statistician",
+      "vote": "GUILTY",
+      "reason": "The plan spends two extra years and a lower-WAM risk on a second degree with no base-rate or outcome data showing it beats Mech plus a finance minor, while the top goal (F1) is a tiny-odds target where WAM, technical depth and internships are the known discriminators.",
+      "fact": "Even the defense concedes the record has no evidence that the full Commerce degree carries more signalling weight than finance electives or a minor, and the case states the rules (CFD access, additional units, maximum duration) were not verified before \"I chose\".",
+      "flip": "Verified Monash rules and outcome data showed the double degree keeps CFD and similar electives available within the six-year spread and that the full degree materially improves finance and consulting entry over a minor."
+    },
+    {
+      "juror": "The Parent",
+      "vote": "GUILTY",
+      "reason": "As a parent I would not back committing two extra years, more HECS debt and a heavier workload for a full second degree when the cheaper option of Mech Eng plus finance electives or a minor is still open and the key rules are unchecked.",
+      "fact": "Both sides agree the record has no evidence that the full Commerce degree beats Mech Eng plus finance electives or a minor, so the extra time, debt and WAM risk are not shown to be worth it.",
+      "flip": "Verified Monash rules showed that CFD and other technical electives are accessible in the double degree, and that the six-year plan is allowed, with evidence that the full Commerce degree opens finance and consulting doors that a minor does not."
+    },
+    {
+      "juror": "The Investor",
+      "vote": "GUILTY",
+      "reason": "As an investor I would not commit two extra years of income, extra HECS accrual and WAM risk to a full second degree when a cheaper option (Mech plus finance electives or a minor) is on the table and nothing in the record shows the full degree pays back more.",
+      "fact": "The defense itself concedes the record has no evidence that the full Commerce degree carries more signalling weight than electives or a minor, while Option C adds no elective slots and delays income.",
+      "flip": "Verified evidence showed the full Commerce degree materially improves entry into his target finance roles over a minor, and that Monash rules allow CFD (MMA3101) and a six-year duration within the double degree."
+    },
+    {
+      "juror": "The Designer",
+      "vote": "GUILTY",
+      "reason": "A stranger reading \"I chose the double degree\" cannot tell in five seconds why the full Commerce degree beats a cheaper finance minor, because the case never says, and it is framed as settled when its key premises are still unchecked.",
+      "fact": "The defense's own rebuttal names the question as unanswered: \"Does the full Commerce degree add anything over Mech Eng plus a finance minor? The record is silent.\"",
+      "flip": "The case were reframed around the actual claim, with verified Monash rules showing CFD/MMA3101 is accessible in the double degree and evidence that the full Commerce degree opens finance doors a minor does not."
+    },
+    {
+      "juror": "The Lawyer",
+      "vote": "GUILTY",
+      "reason": "As the lawyer, I see a decision announced as made (\"I chose\") while every rule it depends on (maximum duration, reduced load, additional units, CSP/HECS-HELP treatment of a six-year spread, commencement-year course structure) is unchecked, so it should not go ahead as described.",
+      "fact": "The case file says he \"has not verified whether it is available in the double degree, whether it needs to be an additional unit, its prerequisites, or whether rules will change by his commencement year\", and the defense itself admits the record holds no verified Monash rules on maximum duration, reduced load, additional units or HECS limits.",
+      "flip": "The case showed written Monash rules for his commencement year confirming that a six-year reduced-load path is permitted and CSP/HECS-HELP funded, and that MMA3101 or equivalent CFD depth is available in the double degree without an unfunded additional unit."
+    }
+  ]
+}

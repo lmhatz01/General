@@ -1,0 +1,4 @@
+VOTE: GUILTY
+REASON: The burden sits on the party who says "I chose" the costlier path, and the record holds only hope: nothing shows the full Commerce degree beats the cheaper finance-minor alternative, and the CFD access the plan depends on is unverified.
+DECIDING FACT: The defense itself conceded that the record has no evidence that the full degree carries more signalling weight than electives or a minor, and the file admits MMA3101 availability, additional-unit rules and commencement-year rules are all unverified.
+WOULD FLIP IF: The case showed, from verified Monash handbook rules for his commencement year, that MMA3101 or equivalent depth is available in the double degree and that a six-year duration is permitted, together with evidence that the full Commerce degree improves finance or consulting entry over Mech Eng plus a finance minor.
