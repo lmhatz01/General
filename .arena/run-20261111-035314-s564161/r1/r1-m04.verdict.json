@@ -1,0 +1,14 @@
+{
+  "match": "r1-m04",
+  "scores": {
+    "a015": {"correctness": 7, "completeness": 8, "specificity": 8, "robustness": 7, "clarity": 8, "fatal": false},
+    "a016": {"correctness": 7, "completeness": 7, "specificity": 7, "robustness": 7, "clarity": 8, "fatal": false}
+  },
+  "winner": "a015",
+  "reason": "a015 answers the double-versus-single question more concretely, with the VTAC offer-order logic, duration and forgone-salary arithmetic for the three-unit plan, a core/elective unit-code table and a dated action plan, while a016 is stronger only on prerequisites and entry tiers.",
+  "survived": ["RMIT/interstate ranking contradiction fixed with one list and pairwise reasons", "cost/HECS-HELP now analysed with per-unit fee mechanism and duration table", "VTAC offer mechanism and double-first versus single-first rule added", "dated next steps added", "Melbourne BSc prerequisite risk flagged with a do-not-list-until-confirmed check"],
+  "standing": {
+    "a015": ["entry requirements and relative entry tiers thin (no explicit prerequisite section per course)", "unit codes still largely recalled/unverified, several unit codes not given", "Melbourne ranked below Swinburne on weak evidence"],
+    "a016": ["no quantified cost or duration for the three-unit plan", "unit-level advice mostly topics with only three recalled codes", "VTAC single-first versus double-first ordering trick not analysed", "Melbourne above Swinburne and RMIT rests on judgement"]
+  }
+}

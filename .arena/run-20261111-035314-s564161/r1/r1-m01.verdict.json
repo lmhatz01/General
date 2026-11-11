@@ -1,0 +1,11 @@
+{
+  "match": "r1-m01",
+  "scores": {
+    "a010": {"correctness": 7, "completeness": 8, "specificity": 7, "robustness": 7, "clarity": 7, "fatal": false},
+    "a007": {"correctness": 7, "completeness": 7, "specificity": 6, "robustness": 7, "clarity": 8, "fatal": false}
+  },
+  "winner": "a010",
+  "reason": "a010 covers more of the stated requirements (Specialist Maths gap, adjustment schemes, a transfer-dependent preference rule, MEC/ENG unit-type pointers tied to motorsport use, per-university team notes), while a007 gives a good cost table but no unit-level pointers and thin entry-requirement coverage.",
+  "survived": ["no unit codes given, partly rebutted by flagged MEC/ENG unit-type table and MMA3101 caution", "nothing verified, handled by stating the failed fetch attempt and confidence labels", "stale timeline, fixed with dated post-ATAR change-of-preference steps", "decision test unusable at VTAC time, fixed with default order and transfer branch", "Specialist Maths and adjustment schemes missing, now addressed", "arithmetic on stretched double fixed to 2.7 years"],
+  "standing": {"a010": ["no verified facts or actual unit codes (inherent to blocked network)", "MMA3101 left unidentified", "MEC/ENG prefixes unverified recall"], "a007": ["no unit codes or unit names at all", "Specialist Maths and per-university entry details thin", "team name for Melbourne given incorrectly as Melbourne University Motorsport", "nothing verified"]}
+}
