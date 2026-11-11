@@ -26,10 +26,10 @@
      "how": "Exact numbers, names, commands, file paths and steps. Zero generic advice."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a001.md",
-   "alive": true,
-   "eliminated_in": null,
-   "eliminated_by": null,
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m06.a001.solution.md",
+   "alive": false,
+   "eliminated_in": 1,
+   "eliminated_by": "a011",
    "byes": 0
   },
   "a002": {
@@ -50,10 +50,10 @@
      "how": "Optimise for the fastest route to something usable today. Cut anything that does not move the result."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a002.md",
-   "alive": true,
-   "eliminated_in": null,
-   "eliminated_by": null,
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m05.a002.solution.md",
+   "alive": false,
+   "eliminated_in": 1,
+   "eliminated_by": "a013",
    "byes": 0
   },
   "a003": {
@@ -74,7 +74,7 @@
      "how": "Exact numbers, names, commands, file paths and steps. Zero generic advice."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a003.md",
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m08.a003.solution.md",
    "alive": true,
    "eliminated_in": null,
    "eliminated_by": null,
@@ -98,10 +98,10 @@
      "how": "Pick the least complicated answer that fully does the job. Every extra part has to justify itself."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a004.md",
-   "alive": true,
-   "eliminated_in": null,
-   "eliminated_by": null,
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m02.a004.solution.md",
+   "alive": false,
+   "eliminated_in": 1,
+   "eliminated_by": "a012",
    "byes": 0
   },
   "a005": {
@@ -122,10 +122,10 @@
      "how": "Assume the inputs are bad and the conditions are hostile. Make the answer fail safely and loudly rather than quietly."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a005.md",
-   "alive": true,
-   "eliminated_in": null,
-   "eliminated_by": null,
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m03.a005.solution.md",
+   "alive": false,
+   "eliminated_in": 1,
+   "eliminated_by": "a008",
    "byes": 0
   },
   "a006": {
@@ -146,10 +146,10 @@
      "how": "Assume the inputs are bad and the conditions are hostile. Make the answer fail safely and loudly rather than quietly."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a006.md",
-   "alive": true,
-   "eliminated_in": null,
-   "eliminated_by": null,
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m07.a006.solution.md",
+   "alive": false,
+   "eliminated_in": 1,
+   "eliminated_by": "a009",
    "byes": 0
   },
   "a007": {
@@ -170,10 +170,10 @@
      "how": "Optimise for how this holds up in six months: easy to maintain, easy to extend, no traps for the next person."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a007.md",
-   "alive": true,
-   "eliminated_in": null,
-   "eliminated_by": null,
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m01.a007.solution.md",
+   "alive": false,
+   "eliminated_in": 1,
+   "eliminated_by": "a010",
    "byes": 0
   },
   "a008": {
@@ -194,7 +194,7 @@
      "how": "Start from the person who will use this: their situation, their skill level, and what they will actually do next. Shape everything around that."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a008.md",
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m03.a008.solution.md",
    "alive": true,
    "eliminated_in": null,
    "eliminated_by": null,
@@ -218,7 +218,7 @@
      "how": "Remove things until it breaks, then put the last one back. Fewer steps, fewer dependencies, fewer words."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a009.md",
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m07.a009.solution.md",
    "alive": true,
    "eliminated_in": null,
    "eliminated_by": null,
@@ -242,7 +242,7 @@
      "how": "Name the real trade-offs, choose for the user's most likely constraints, and say plainly what that choice gives up."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a010.md",
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m01.a010.solution.md",
    "alive": true,
    "eliminated_in": null,
    "eliminated_by": null,
@@ -266,7 +266,7 @@
      "how": "Hunt the edge cases, failure modes and weird inputs first, and design the answer around surviving them."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a011.md",
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m06.a011.solution.md",
    "alive": true,
    "eliminated_in": null,
    "eliminated_by": null,
@@ -290,7 +290,7 @@
      "how": "Pick the least complicated answer that fully does the job. Every extra part has to justify itself."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a012.md",
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m02.a012.solution.md",
    "alive": true,
    "eliminated_in": null,
    "eliminated_by": null,
@@ -314,7 +314,7 @@
      "how": "Be exhaustive and exact. Check every step, verify every claim, and leave no hand-waving anywhere."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a013.md",
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m05.a013.solution.md",
    "alive": true,
    "eliminated_in": null,
    "eliminated_by": null,
@@ -338,10 +338,10 @@
      "how": "Leave out nothing the task asks for or clearly implies. Cover every requirement explicitly."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a014.md",
-   "alive": true,
-   "eliminated_in": null,
-   "eliminated_by": null,
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m08.a014.solution.md",
+   "alive": false,
+   "eliminated_in": 1,
+   "eliminated_by": "a003",
    "byes": 0
   },
   "a015": {
@@ -362,7 +362,7 @@
      "how": "Make it the easiest answer to read and act on: plain words, obvious structure, nothing the reader has to decode."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a015.md",
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m04.a015.solution.md",
    "alive": true,
    "eliminated_in": null,
    "eliminated_by": null,
@@ -386,10 +386,10 @@
      "how": "Make it the easiest answer to read and act on: plain words, obvious structure, nothing the reader has to decode."
     }
    },
-   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r0/a016.md",
-   "alive": true,
-   "eliminated_in": null,
-   "eliminated_by": null,
+   "solution": "/home/user/General/.arena/run-20261111-035314-s564161/r1/r1-m04.a016.solution.md",
+   "alive": false,
+   "eliminated_in": 1,
+   "eliminated_by": "a015",
    "byes": 0
   }
  },
@@ -419,60 +419,183 @@
      "id": "r1-m01",
      "a": "a010",
      "b": "a007",
-     "winner": null,
-     "loser": null,
-     "reason": null,
-     "survived": [],
-     "scores": null,
-     "source": null
+     "winner": "a010",
+     "loser": "a007",
+     "reason": "a010 covers more of the stated requirements (Specialist Maths gap, adjustment schemes, a transfer-dependent preference rule, MEC/ENG unit-type pointers tied to motorsport use, per-university team notes), while a007 gives a good cost table but no unit-level pointers and thin entry-requirement coverage.",
+     "survived": [
+      "no unit codes given, partly rebutted by flagged MEC/ENG unit-type table and MMA3101 caution",
+      "nothing verified, handled by stating the failed fetch attempt and confidence labels",
+      "stale timeline, fixed with dated post-ATAR change-of-preference steps",
+      "decision test unusable at VTAC time, fixed with default order and transfer branch",
+      "Specialist Maths and adjustment schemes missing, now addressed",
+      "arithmetic on stretched double fixed to 2.7 years"
+     ],
+     "scores": {
+      "a010": 72.5,
+      "a007": 69.5
+     },
+     "source": "judge"
     },
     {
      "id": "r1-m02",
      "a": "a004",
      "b": "a012",
-     "winner": null,
-     "loser": null,
-     "reason": null,
-     "survived": [],
-     "scores": null,
-     "source": null
+     "winner": "a012",
+     "loser": "a004",
+     "reason": "Both are honest about being unverified and fixed the date and Specialist Maths gaps, but a012 gives one unambiguous ranking and preference order with a flagged key assumption, whereas a004's #1 slot stays conditional on the double or single transfer rule.",
+     "survived": [
+      "timeline stale for 11 Nov 2026 (fixed)",
+      "Melbourne above RMIT inconsistency (fixed)",
+      "ranking vs preference order contradiction (fixed)",
+      "finance electives assumption flagged as key unverified",
+      "Specialist Maths analysis added",
+      "invented 40-50 hours removed"
+     ],
+     "scores": {
+      "a004": 70.0,
+      "a012": 71.0
+     },
+     "source": "judge"
     },
     {
      "id": "r1-m03",
      "a": "a008",
      "b": "a005",
-     "winner": null,
-     "loser": null,
-     "reason": null,
-     "survived": [],
-     "scores": null,
-     "source": null
+     "winner": "a008",
+     "loser": "a005",
+     "reason": "a008 delivered partial search-based verification (Monash 2027 course codes E3001/E3005, ENG1090 bridging thresholds, and MMA3101 identified as Computational fluid dynamics) and gave dual preference orders for the switching check, whereas a005 verified nothing and could not identify MMA3101, though a005 had better 3-units-per-semester arithmetic and per-university coverage.",
+     "survived": [
+      "no verified facts: partly fixed via search with honest limits flagged",
+      "switching rule unchecked: both preference orders given",
+      "no subject codes: verified codes added and MMA3101 identified",
+      "Melbourne over RMIT/Swinburne: reranked with explicit criteria",
+      "cost not covered: structural cost and Melbourne master's funding flagged",
+      "timeline confusion: staged this-week/after-exams/ATAR plan"
+     ],
+     "scores": {
+      "a008": 71.0,
+      "a005": 65.5
+     },
+     "source": "judge"
     },
     {
      "id": "r1-m04",
      "a": "a015",
      "b": "a016",
-     "winner": null,
-     "loser": null,
-     "reason": null,
-     "survived": [],
-     "scores": null,
-     "source": null
+     "winner": "a015",
+     "loser": "a016",
+     "reason": "a015 answers the double-versus-single question more concretely, with the VTAC offer-order logic, duration and forgone-salary arithmetic for the three-unit plan, a core/elective unit-code table and a dated action plan, while a016 is stronger only on prerequisites and entry tiers.",
+     "survived": [
+      "RMIT/interstate ranking contradiction fixed with one list and pairwise reasons",
+      "cost/HECS-HELP now analysed with per-unit fee mechanism and duration table",
+      "VTAC offer mechanism and double-first versus single-first rule added",
+      "dated next steps added",
+      "Melbourne BSc prerequisite risk flagged with a do-not-list-until-confirmed check"
+     ],
+     "scores": {
+      "a015": 75.0,
+      "a016": 71.0
+     },
+     "source": "judge"
     },
     {
      "id": "r1-m05",
      "a": "a002",
      "b": "a013",
-     "winner": null,
-     "loser": null,
-     "reason": null,
-     "survived": [],
-     "scores": null,
-     "source": null
+     "winner": "a013",
+     "loser": "a002",
+     "reason": "Both are unverified, but a013 covers entry tiers, adjustment schemes, a Specialist Maths gap plan, a year-by-year unit sequence with an explicit MMA3101 test and a dated VTAC timeline, while a002 mislabels ENG1014 as control, gives thinner entry coverage and lumps other universities into one paragraph.",
+     "survived": [
+      "no verification: disclosed honestly with tags and checks",
+      "ranking arithmetic: scores verified to sum correctly",
+      "per-unit fee muddle: corrected to extra Commerce units in a higher band",
+      "VTAC timing: anchored to 11 Nov 2026 with approximate dates",
+      "double ranked 7th now consistent with its own matrix"
+     ],
+     "scores": {
+      "a002": 62.5,
+      "a013": 74.0
+     },
+     "source": "judge"
     },
     {
      "id": "r1-m06",
      "a": "a001",
+     "b": "a011",
+     "winner": "a011",
+     "loser": "a001",
+     "reason": "a011 fixes the VTAC preference-order logic (double above single only if wanted, since a higher-cutoff double listed second is unreachable) and gives a fuller, justified ranking of all options with a single-vs-double table and plan that does not depend on an unknown transfer rule, while a001 still lists the double second.",
+     "survived": [
+      "no verification possible (both unverified, honestly tagged; a011 gives more structured content)",
+      "no ATARs (correctly withheld)",
+      "MMA3101 unresolved (now a lookup procedure)"
+     ],
+     "scores": {
+      "a001": 69.0,
+      "a011": 73.5
+     },
+     "source": "judge"
+    },
+    {
+     "id": "r1-m07",
+     "a": "a009",
+     "b": "a006",
+     "winner": "a009",
+     "loser": "a006",
+     "reason": "a009 directly answers the student's three-units-per-semester and HECS-HELP questions with correct per-unit logic and a duration table with sensitivity, while a006 only touches the spread-load question and its own scoring table ranks the Monash double (19) above Melbourne (21) in the final ranking.",
+     "survived": [
+      "HECS-HELP per-unit and full-time conflation fixed",
+      "weekly-load comparison vs same freedom claim fixed",
+      "VTAC order safety net and swap logic fixed",
+      "interstate ranking justified as cost/mobility",
+      "40% threshold removed and verdict labelled judgement",
+      "no-verification attack rebutted as honest labelling"
+     ],
+     "scores": {
+      "a009": 78.5,
+      "a006": 76.0
+     },
+     "source": "judge"
+    },
+    {
+     "id": "r1-m08",
+     "a": "a003",
+     "b": "a014",
+     "winner": "a003",
+     "loser": "a014",
+     "reason": "Both verified nothing from official sources, but a003 actually supplies the cost/HECS bands, adjustment-scheme explanation, dated action calendar and elective-scoring test that a014 leaves as homework.",
+     "survived": [
+      "no facts verified (honestly labelled, access blocked)",
+      "ranks 3-9 thin (now evidence-quality labelled)",
+      "MMA3101 unknown (test provided)",
+      "double-to-single transfer direction (handled as conditional)"
+     ],
+     "scores": {
+      "a003": 77.0,
+      "a014": 62.0
+     },
+     "source": "judge"
+    }
+   ],
+   "bye": null,
+   "closed": true
+  },
+  {
+   "n": 2,
+   "alive": [
+    "a003",
+    "a008",
+    "a009",
+    "a010",
+    "a011",
+    "a012",
+    "a013",
+    "a015"
+   ],
+   "matches": [
+    {
+     "id": "r2-m01",
+     "a": "a009",
      "b": "a011",
      "winner": null,
      "loser": null,
@@ -482,9 +605,9 @@
      "source": null
     },
     {
-     "id": "r1-m07",
-     "a": "a009",
-     "b": "a006",
+     "id": "r2-m02",
+     "a": "a015",
+     "b": "a008",
      "winner": null,
      "loser": null,
      "reason": null,
@@ -493,9 +616,20 @@
      "source": null
     },
     {
-     "id": "r1-m08",
-     "a": "a003",
-     "b": "a014",
+     "id": "r2-m03",
+     "a": "a010",
+     "b": "a012",
+     "winner": null,
+     "loser": null,
+     "reason": null,
+     "survived": [],
+     "scores": null,
+     "source": null
+    },
+    {
+     "id": "r2-m04",
+     "a": "a013",
+     "b": "a003",
      "winner": null,
      "loser": null,
      "reason": null,

@@ -1,0 +1,14 @@
+{
+  "match": "r1-m02",
+  "scores": {
+    "a004": {"correctness": 7, "completeness": 7, "specificity": 7, "robustness": 7, "clarity": 7, "fatal": false},
+    "a012": {"correctness": 7, "completeness": 7, "specificity": 7, "robustness": 7, "clarity": 8, "fatal": false}
+  },
+  "winner": "a012",
+  "reason": "Both are honest about being unverified and fixed the date and Specialist Maths gaps, but a012 gives one unambiguous ranking and preference order with a flagged key assumption, whereas a004's #1 slot stays conditional on the double or single transfer rule.",
+  "survived": ["timeline stale for 11 Nov 2026 (fixed)", "Melbourne above RMIT inconsistency (fixed)", "ranking vs preference order contradiction (fixed)", "finance electives assumption flagged as key unverified", "Specialist Maths analysis added", "invented 40-50 hours removed"],
+  "standing": {
+    "a004": ["#1 ranking still hedged between single and double", "industry links only listed as categories, no named partners", "interstate options lumped into one tier"],
+    "a012": ["no unit codes or unit-level map (MMA3101 unresolved; topic table generic)", "industry links thin", "no verification achieved"]
+  }
+}

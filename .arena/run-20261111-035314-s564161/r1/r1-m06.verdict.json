@@ -1,0 +1,11 @@
+{
+  "match": "r1-m06",
+  "scores": {
+    "a001": {"correctness": 7, "completeness": 7, "specificity": 7, "robustness": 6, "clarity": 8, "fatal": false},
+    "a011": {"correctness": 7, "completeness": 8, "specificity": 7, "robustness": 7, "clarity": 8, "fatal": false}
+  },
+  "winner": "a011",
+  "reason": "a011 fixes the VTAC preference-order logic (double above single only if wanted, since a higher-cutoff double listed second is unreachable) and gives a fuller, justified ranking of all options with a single-vs-double table and plan that does not depend on an unknown transfer rule, while a001 still lists the double second.",
+  "survived": ["no verification possible (both unverified, honestly tagged; a011 gives more structured content)", "no ATARs (correctly withheld)", "MMA3101 unresolved (now a lookup procedure)"],
+  "standing": {"a001": ["VTAC order still lists Monash double second after single, which is pointless if double cutoff is higher", "Decision rule and reversibility rely on unverified transfer rules", "Thin justification for lower ranks and unnamed non-Monash team details"], "a011": ["Nothing verified from official sources", "Core mechanical unit codes mostly given by title only"]}
+}

@@ -1,0 +1,14 @@
+{
+  "match": "r1-m03",
+  "scores": {
+    "a008": {"correctness": 7, "completeness": 7, "specificity": 7, "robustness": 7, "clarity": 8, "fatal": false},
+    "a005": {"correctness": 6, "completeness": 7, "specificity": 6, "robustness": 7, "clarity": 7, "fatal": false}
+  },
+  "winner": "a008",
+  "reason": "a008 delivered partial search-based verification (Monash 2027 course codes E3001/E3005, ENG1090 bridging thresholds, and MMA3101 identified as Computational fluid dynamics) and gave dual preference orders for the switching check, whereas a005 verified nothing and could not identify MMA3101, though a005 had better 3-units-per-semester arithmetic and per-university coverage.",
+  "survived": ["no verified facts: partly fixed via search with honest limits flagged", "switching rule unchecked: both preference orders given", "no subject codes: verified codes added and MMA3101 identified", "Melbourne over RMIT/Swinburne: reranked with explicit criteria", "cost not covered: structural cost and Melbourne master's funding flagged", "timeline confusion: staged this-week/after-exams/ATAR plan"],
+  "standing": {
+    "a008": ["verification still second-hand via search summaries, no dollar figures or prerequisites for non-Monash courses", "3-units-per-semester plan not quantified", "other universities only briefly covered"],
+    "a005": ["no verified facts at all", "no subject-code-level advice, MMA3101 unidentified", "ranks 3 to 5 still rest on unverified items", "other universities thin and unverified"]
+  }
+}

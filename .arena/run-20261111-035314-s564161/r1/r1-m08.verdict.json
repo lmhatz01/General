@@ -1,0 +1,14 @@
+{
+  "match": "r1-m08",
+  "scores": {
+    "a003": {"correctness": 7, "completeness": 8, "specificity": 8, "robustness": 8, "clarity": 8, "fatal": false},
+    "a014": {"correctness": 7, "completeness": 6, "specificity": 6, "robustness": 5, "clarity": 7, "fatal": false}
+  },
+  "winner": "a003",
+  "reason": "Both verified nothing from official sources, but a003 actually supplies the cost/HECS bands, adjustment-scheme explanation, dated action calendar and elective-scoring test that a014 leaves as homework.",
+  "survived": ["no facts verified (honestly labelled, access blocked)", "ranks 3-9 thin (now evidence-quality labelled)", "MMA3101 unknown (test provided)", "double-to-single transfer direction (handled as conditional)"],
+  "standing": {
+    "a003": ["later-year unit codes still not recalled", "all fees, thresholds and dates are unverified recall", "Deakin ranked 8 yet listed as safety"],
+    "a014": ["cost/HECS figures absent", "adjustment factors/increments barely covered", "later-year codes low-confidence only", "no concrete VTAC dates", "Rank 2 double placed first in preference list, inconsistent with ranking"]
+  }
+}

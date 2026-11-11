@@ -1,0 +1,14 @@
+{
+  "match": "r1-m07",
+  "scores": {
+    "a009": {"correctness": 8, "completeness": 8, "specificity": 7, "robustness": 8, "clarity": 8, "fatal": false},
+    "a006": {"correctness": 7, "completeness": 8, "specificity": 8, "robustness": 8, "clarity": 7, "fatal": false}
+  },
+  "winner": "a009",
+  "reason": "a009 directly answers the student's three-units-per-semester and HECS-HELP questions with correct per-unit logic and a duration table with sensitivity, while a006 only touches the spread-load question and its own scoring table ranks the Monash double (19) above Melbourne (21) in the final ranking.",
+  "survived": ["HECS-HELP per-unit and full-time conflation fixed", "weekly-load comparison vs same freedom claim fixed", "VTAC order safety net and swap logic fixed", "interstate ranking justified as cost/mobility", "40% threshold removed and verdict labelled judgement", "no-verification attack rebutted as honest labelling"],
+  "standing": {
+    "a009": ["only first-year Monash codes given, no mechanical-stream codes, MMA3101 unresolved", "nothing verified from live sources"],
+    "a006": ["nothing verified from live sources", "MMA3101 unresolved and upper-level codes only prefix-level", "table scores contradict ranking order for the Monash double", "no firm safety option in VTAC order"]
+  }
+}
